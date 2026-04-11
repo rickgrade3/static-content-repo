@@ -1,0 +1,22 @@
+[
+    {"id":"ainz-ooal-gown","title":"Ainz Ooal Gown","gender":"male"},
+    {"id":"albedo","title":"Albedo","gender":"female"},
+    {"id":"shalltear-bloodfallen","title":"Shalltear Bloodfallen","gender":"female"},
+    {"id":"cocytus","title":"Cocytus","gender":"male"},
+    {"id":"demiurge","title":"Demiurge","gender":"male"},
+    {"id":"aura-bella-fiora","title":"Aura Bella Fiora","gender":"female"},
+    {"id":"mare-bello-fiore","title":"Mare Bello Fiore","gender":"male"},
+    {"id":"sebas-tian","title":"Sebas Tian","gender":"male"},
+    {"id":"solution-epsilon","title":"Solution Epsilon","gender":"female"},
+    {"id":"victim","title":"Victim","gender":"male"},
+    {"id":"pandoras-actor","title":"Pandora's Actor","gender":"male"},
+    {"id":"yuri-alpha","title":"Yuri Alpha","gender":"female"},
+    {"id":"lupusregina-beta","title":"Lupusregina Beta","gender":"female"},
+    {"id":"entoma-vasilissa-zeta","title":"Entoma Vasilissa Zeta","gender":"female"},
+    {"id":"cz2128-delta","title":"CZ2128 Delta","gender":"female"},
+    {"id":"narberal-gamma","title":"Narberal Gamma","gender":"female"},
+    {"id":"climb","title":"Climb","gender":"male"},
+    {"id":"brain-unglaus","title":"Brain Unglaus","gender":"male"},
+    {"id":"gazef-stronoff","title":"Gazef Stronoff","gender":"male"},
+    {"id":"fluder-paradyne","title":"Fluder Paradyne","gender":"male"}
+]

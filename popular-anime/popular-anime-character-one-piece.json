@@ -1,0 +1,22 @@
+[
+    {"id":"monkey-d-luffy","title":"Monkey D. Luffy","gender":"male"},
+    {"id":"roronoa-zoro","title":"Roronoa Zoro","gender":"male"},
+    {"id":"nami","title":"Nami","gender":"female"},
+    {"id":"usopp","title":"Usopp","gender":"male"},
+    {"id":"sanji","title":"Sanji","gender":"male"},
+    {"id":"tony-tony-chopper","title":"Tony Tony Chopper","gender":"male"},
+    {"id":"nico-robin","title":"Nico Robin","gender":"female"},
+    {"id":"franky","title":"Franky","gender":"male"},
+    {"id":"brook","title":"Brook","gender":"male"},
+    {"id":"jinbe","title":"Jinbe","gender":"male"},
+    {"id":"portgas-d-ace","title":"Portgas D. Ace","gender":"male"},
+    {"id":"sabo","title":"Sabo","gender":"male"},
+    {"id":"trafalgar-law","title":"Trafalgar Law","gender":"male"},
+    {"id":"boa-hancock","title":"Boa Hancock","gender":"female"},
+    {"id":"shanks","title":"Shanks","gender":"male"},
+    {"id":"whitebeard","title":"Whitebeard","gender":"male"},
+    {"id":"crocodile","title":"Crocodile","gender":"male"},
+    {"id":"donquixote-doflamingo","title":"Donquixote Doflamingo","gender":"male"},
+    {"id":"kaido","title":"Kaido","gender":"male"},
+    {"id":"big-mom","title":"Big Mom","gender":"female"}
+]

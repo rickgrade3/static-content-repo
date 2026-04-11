@@ -1,0 +1,22 @@
+[
+    {"id":"subaru-natsuki","title":"Subaru Natsuki","gender":"male"},
+    {"id":"emilia","title":"Emilia","gender":"female"},
+    {"id":"rem","title":"Rem","gender":"female"},
+    {"id":"ram","title":"Ram","gender":"female"},
+    {"id":"beatrice","title":"Beatrice","gender":"female"},
+    {"id":"roswaal-l-mathers","title":"Roswaal L Mathers","gender":"male"},
+    {"id":"echidna","title":"Echidna","gender":"female"},
+    {"id":"satella","title":"Satella","gender":"female"},
+    {"id":"reinhard-van-astrea","title":"Reinhard van Astrea","gender":"male"},
+    {"id":"felix-argyle","title":"Felix Argyle","gender":"male"},
+    {"id":"crusch-karsten","title":"Crusch Karsten","gender":"female"},
+    {"id":"wilhelm-van-astrea","title":"Wilhelm van Astrea","gender":"male"},
+    {"id":"julius-juukulius","title":"Julius Juukulius","gender":"male"},
+    {"id":"otto-suwen","title":"Otto Suwen","gender":"male"},
+    {"id":"garfiel-tinsel","title":"Garfiel Tinsel","gender":"male"},
+    {"id":"frederica-baumann","title":"Frederica Baumann","gender":"female"},
+    {"id":"elsa-granhiert","title":"Elsa Granhiert","gender":"female"},
+    {"id":"sekhmet","title":"Sekhmet","gender":"female"},
+    {"id":"minerva","title":"Minerva","gender":"female"},
+    {"id":"typhon","title":"Typhon","gender":"female"}
+]

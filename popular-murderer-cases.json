@@ -1,0 +1,22 @@
+[
+    {"id":"jack_the_ripper","title":"Jack the Ripper"},
+    {"id":"ted_bundy","title":"Ted Bundy"},
+    {"id":"jeffrey_dahmer","title":"Jeffrey Dahmer"},
+    {"id":"john_wayne_gacy","title":"John Wayne Gacy"},
+    {"id":"zodiac_killer","title":"Zodiac Killer"},
+    {"id":"charles_manson","title":"Charles Manson"},
+    {"id":"ed_gein","title":"Ed Gein"},
+    {"id":"btk_killer","title":"BTK Killer"},
+    {"id":"son_of_sam","title":"Son of Sam"},
+    {"id":"golden_state_killer","title":"Golden State Killer"},
+    {"id":"aileen_wuornos","title":"Aileen Wuornos"},
+    {"id":"richard_ramirez","title":"Richard Ramirez"},
+    {"id":"gary_ridgway","title":"Gary Ridgway"},
+    {"id":"hh_holmes","title":"H.H. Holmes"},
+    {"id":"oj_simpson","title":"OJ Simpson Case"},
+    {"id":"casey_anthony","title":"Casey Anthony Case"},
+    {"id":"robert_pickton","title":"Robert Pickton"},
+    {"id":"andrei_chikatilo","title":"Andrei Chikatilo"},
+    {"id":"luis_garavito","title":"Luis Garavito"},
+    {"id":"scott_peterson","title":"Scott Peterson Case"}
+]

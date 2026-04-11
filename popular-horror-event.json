@@ -1,0 +1,22 @@
+[
+    {"id":"jonestown_massacre","title":"Jonestown Massacre"},
+    {"id":"salem_witch_trials","title":"Salem Witch Trials"},
+    {"id":"dyatlov_pass_incident","title":"Dyatlov Pass Incident"},
+    {"id":"chernobyl_disaster","title":"Chernobyl Disaster"},
+    {"id":"unit_731","title":"Unit 731 Experiments"},
+    {"id":"pompeii_eruption","title":"Pompeii Eruption"},
+    {"id":"rwandan_genocide","title":"Rwandan Genocide"},
+    {"id":"manson_family_murders","title":"Manson Family Murders"},
+    {"id":"dancing_plague_1518","title":"Dancing Plague of 1518"},
+    {"id":"stanford_prison_experiment","title":"Stanford Prison Experiment"},
+    {"id":"project_mkultra","title":"Project MKUltra"},
+    {"id":"the_black_dahlia","title":"The Black Dahlia Murder"},
+    {"id":"amityville_horror","title":"Amityville Horror"},
+    {"id":"roanoke_disappearance","title":"Roanoke Colony Disappearance"},
+    {"id":"great_molasses_flood","title":"Great Molasses Flood"},
+    {"id":"donner_party","title":"Donner Party Tragedy"},
+    {"id":"tunguska_event","title":"Tunguska Event"},
+    {"id":"666_beast_number","title":"The Number of the Beast Phenomenon"},
+    {"id":"zodiac_killer_murders","title":"Zodiac Killer Murders"},
+    {"id":"columbine_shooting","title":"Columbine Shooting"}
+]

@@ -1,0 +1,22 @@
+[
+    {"id":"labrador_retriever","title":"Labrador Retriever"},
+    {"id":"french_bulldog","title":"French Bulldog"},
+    {"id":"golden_retriever","title":"Golden Retriever"},
+    {"id":"german_shepherd","title":"German Shepherd"},
+    {"id":"poodle","title":"Poodle"},
+    {"id":"bulldog","title":"Bulldog"},
+    {"id":"beagle","title":"Beagle"},
+    {"id":"rottweiler","title":"Rottweiler"},
+    {"id":"dachshund","title":"Dachshund"},
+    {"id":"siberian_husky","title":"Siberian Husky"},
+    {"id":"doberman","title":"Doberman Pinscher"},
+    {"id":"great_dane","title":"Great Dane"},
+    {"id":"australian_shepherd","title":"Australian Shepherd"},
+    {"id":"shih_tzu","title":"Shih Tzu"},
+    {"id":"border_collie","title":"Border Collie"},
+    {"id":"boxer","title":"Boxer"},
+    {"id":"yorkshire_terrier","title":"Yorkshire Terrier"},
+    {"id":"miniature_schnauzer","title":"Miniature Schnauzer"},
+    {"id":"cavalier_king_charles","title":"Cavalier King Charles Spaniel"},
+    {"id":"pomeranian","title":"Pomeranian"}
+]

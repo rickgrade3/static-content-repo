@@ -1,0 +1,22 @@
+[
+    {"id":"doraemon","title":"Doraemon","gender":"male"},
+    {"id":"nobita-nobi","title":"Nobita Nobi","gender":"male"},
+    {"id":"shizuka-minamoto","title":"Shizuka Minamoto","gender":"female"},
+    {"id":"takeshi-goda","title":"Takeshi Goda","gender":"male"},
+    {"id":"suneo-honekawa","title":"Suneo Honekawa","gender":"male"},
+    {"id":"dorami","title":"Dorami","gender":"female"},
+    {"id":"hidetoshi-dekisugi","title":"Hidetoshi Dekisugi","gender":"male"},
+    {"id":"tamako-nobi","title":"Tamako Nobi","gender":"female"},
+    {"id":"nobisuke-nobi","title":"Nobisuke Nobi","gender":"male"},
+    {"id":"sewashi","title":"Sewashi","gender":"male"},
+    {"id":"jaiko","title":"Jaiko","gender":"female"},
+    {"id":"mini-dora","title":"Mini-Dora","gender":"male"},
+    {"id":"dora-the-kid","title":"Dora the Kid","gender":"male"},
+    {"id":"dora-med","title":"Dora-Med III","gender":"male"},
+    {"id":"dora-rinho","title":"Dora-Rinho","gender":"male"},
+    {"id":"dora-nichov","title":"Dora-Nichov","gender":"male"},
+    {"id":"el-matadora","title":"El Matadora","gender":"male"},
+    {"id":"riruru","title":"Riruru","gender":"female"},
+    {"id":"pippo","title":"Pippo","gender":"male"},
+    {"id":"nobi-grandma","title":"Nobita's Grandma","gender":"female"}
+]

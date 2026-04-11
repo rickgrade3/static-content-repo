@@ -1,0 +1,22 @@
+[
+    {"id":"guts","title":"Guts","gender":"male"},
+    {"id":"griffith","title":"Griffith","gender":"male"},
+    {"id":"casca","title":"Casca","gender":"female"},
+    {"id":"judeau","title":"Judeau","gender":"male"},
+    {"id":"pippin","title":"Pippin","gender":"male"},
+    {"id":"corkus","title":"Corkus","gender":"male"},
+    {"id":"rickert","title":"Rickert","gender":"male"},
+    {"id":"void","title":"Void","gender":"male"},
+    {"id":"slan","title":"Slan","gender":"female"},
+    {"id":"ubik","title":"Ubik","gender":"male"},
+    {"id":"skull-knight","title":"Skull Knight","gender":"male"},
+    {"id":"zodd","title":"Zodd","gender":"male"},
+    {"id":"puck","title":"Puck","gender":"male"},
+    {"id":"isidro","title":"Isidro","gender":"male"},
+    {"id":"farnese","title":"Farnese","gender":"female"},
+    {"id":"serpico","title":"Serpico","gender":"male"},
+    {"id":"schierke","title":"Schierke","gender":"female"},
+    {"id":"ivalera","title":"Ivalera","gender":"female"},
+    {"id":"mozgus","title":"Mozgus","gender":"male"},
+    {"id":"grunbeld","title":"Grunbeld","gender":"male"}
+]

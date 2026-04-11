@@ -1,0 +1,22 @@
+[
+    {"id":"asta","title":"Asta","gender":"male"},
+    {"id":"yuno","title":"Yuno","gender":"male"},
+    {"id":"yami-sukehiro","title":"Yami Sukehiro","gender":"male"},
+    {"id":"noelle-silva","title":"Noelle Silva","gender":"female"},
+    {"id":"magna-swing","title":"Magna Swing","gender":"male"},
+    {"id":"luck-voltia","title":"Luck Voltia","gender":"male"},
+    {"id":"finral-roulacase","title":"Finral Roulacase","gender":"male"},
+    {"id":"gauche-adlai","title":"Gauche Adlai","gender":"male"},
+    {"id":"grey","title":"Grey","gender":"female"},
+    {"id":"vanessa-enoteca","title":"Vanessa Enoteca","gender":"female"},
+    {"id":"gordon-agrippa","title":"Gordon Agrippa","gender":"male"},
+    {"id":"charmy-pappitson","title":"Charmy Pappitson","gender":"female"},
+    {"id":"henry-legolant","title":"Henry Legolant","gender":"male"},
+    {"id":"zora-ideale","title":"Zora Ideale","gender":"male"},
+    {"id":"fuegoleon-vermillion","title":"Fuegoleon Vermillion","gender":"male"},
+    {"id":"mereoleona-vermillion","title":"Mereoleona Vermillion","gender":"female"},
+    {"id":"jack-the-ripper","title":"Jack the Ripper","gender":"male"},
+    {"id":"dorothy-unsworth","title":"Dorothy Unsworth","gender":"female"},
+    {"id":"nozel-silva","title":"Nozel Silva","gender":"male"},
+    {"id":"julius-novachrono","title":"Julius Novachrono","gender":"male"}
+]

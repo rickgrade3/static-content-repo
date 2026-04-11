@@ -1,0 +1,22 @@
+[
+    {"id":"toriko","title":"Toriko","gender":"male"},
+    {"id":"komatsu","title":"Komatsu","gender":"male"},
+    {"id":"coco","title":"Coco","gender":"male"},
+    {"id":"sunny","title":"Sunny","gender":"male"},
+    {"id":"zebra","title":"Zebra","gender":"male"},
+    {"id":"rin","title":"Rin","gender":"female"},
+    {"id":"setsuno","title":"Setsuno","gender":"female"},
+    {"id":"ichiryu","title":"Ichiryu","gender":"male"},
+    {"id":"jirou","title":"Jirou","gender":"male"},
+    {"id":"mansam","title":"Mansam","gender":"male"},
+    {"id":"starjun","title":"Starjun","gender":"male"},
+    {"id":"tommyrod","title":"Tommyrod","gender":"male"},
+    {"id":"grinpatch","title":"Grinpatch","gender":"male"},
+    {"id":"limon","title":"Limon","gender":"female"},
+    {"id":"alfaro","title":"Alfaro","gender":"male"},
+    {"id":"midora","title":"Midora","gender":"male"},
+    {"id":"acacia","title":"Acacia","gender":"male"},
+    {"id":"froese","title":"Froese","gender":"female"},
+    {"id":"chichi","title":"Chichi","gender":"male"},
+    {"id":"zongeh","title":"Zongeh","gender":"male"}
+]

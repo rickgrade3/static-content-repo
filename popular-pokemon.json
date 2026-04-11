@@ -1,0 +1,22 @@
+[
+    {"id":"pikachu","title":"Pikachu","colors":["yellow"]},
+    {"id":"charizard","title":"Charizard","colors":["orange","red"]},
+    {"id":"mewtwo","title":"Mewtwo","colors":["purple","white"]},
+    {"id":"eevee","title":"Eevee","colors":["brown"]},
+    {"id":"gengar","title":"Gengar","colors":["purple"]},
+    {"id":"snorlax","title":"Snorlax","colors":["blue","cream"]},
+    {"id":"lucario","title":"Lucario","colors":["blue","black"]},
+    {"id":"umbreon","title":"Umbreon","colors":["black","yellow"]},
+    {"id":"dragonite","title":"Dragonite","colors":["orange","yellow"]},
+    {"id":"garchomp","title":"Garchomp","colors":["blue","red"]},
+    {"id":"blastoise","title":"Blastoise","colors":["blue"]},
+    {"id":"venusaur","title":"Venusaur","colors":["green"]},
+    {"id":"bulbasaur","title":"Bulbasaur","colors":["green","blue"]},
+    {"id":"squirtle","title":"Squirtle","colors":["blue"]},
+    {"id":"charmander","title":"Charmander","colors":["orange"]},
+    {"id":"jigglypuff","title":"Jigglypuff","colors":["pink"]},
+    {"id":"meowth","title":"Meowth","colors":["cream","brown"]},
+    {"id":"psyduck","title":"Psyduck","colors":["yellow"]},
+    {"id":"gyarados","title":"Gyarados","colors":["blue"]},
+    {"id":"rayquaza","title":"Rayquaza","colors":["green","yellow"]}
+]

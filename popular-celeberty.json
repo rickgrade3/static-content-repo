@@ -1,0 +1,22 @@
+[
+    {"id":"elon_musk","title":"Elon Musk","gender":"male"},
+    {"id":"taylor_swift","title":"Taylor Swift","gender":"female"},
+    {"id":"cristiano_ronaldo","title":"Cristiano Ronaldo","gender":"male"},
+    {"id":"lionel_messi","title":"Lionel Messi","gender":"male"},
+    {"id":"beyonce","title":"Beyoncé","gender":"female"},
+    {"id":"dwayne_johnson","title":"Dwayne Johnson","gender":"male"},
+    {"id":"oprah_winfrey","title":"Oprah Winfrey","gender":"female"},
+    {"id":"lebron_james","title":"LeBron James","gender":"male"},
+    {"id":"kim_kardashian","title":"Kim Kardashian","gender":"female"},
+    {"id":"rihanna","title":"Rihanna","gender":"female"},
+    {"id":"justin_bieber","title":"Justin Bieber","gender":"male"},
+    {"id":"leonardo_dicaprio","title":"Leonardo DiCaprio","gender":"male"},
+    {"id":"ariana_grande","title":"Ariana Grande","gender":"female"},
+    {"id":"robert_downey_jr","title":"Robert Downey Jr.","gender":"male"},
+    {"id":"selena_gomez","title":"Selena Gomez","gender":"female"},
+    {"id":"will_smith","title":"Will Smith","gender":"male"},
+    {"id":"shakira","title":"Shakira","gender":"female"},
+    {"id":"ed_sheeran","title":"Ed Sheeran","gender":"male"},
+    {"id":"katy_perry","title":"Katy Perry","gender":"female"},
+    {"id":"jennifer_lopez","title":"Jennifer Lopez","gender":"female"}
+]

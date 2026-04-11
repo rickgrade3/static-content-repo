@@ -1,0 +1,22 @@
+[
+    {"id":"usagi-tsukino","title":"Usagi Tsukino","gender":"female"},
+    {"id":"ami-mizuno","title":"Ami Mizuno","gender":"female"},
+    {"id":"rei-hino","title":"Rei Hino","gender":"female"},
+    {"id":"makoto-kino","title":"Makoto Kino","gender":"female"},
+    {"id":"minako-aino","title":"Minako Aino","gender":"female"},
+    {"id":"chibiusa","title":"Chibiusa","gender":"female"},
+    {"id":"hotaru-tomoe","title":"Hotaru Tomoe","gender":"female"},
+    {"id":"haruka-tenou","title":"Haruka Tenou","gender":"female"},
+    {"id":"michiru-kaiou","title":"Michiru Kaiou","gender":"female"},
+    {"id":"setsuna-meiou","title":"Setsuna Meiou","gender":"female"},
+    {"id":"mamoru-chiba","title":"Mamoru Chiba","gender":"male"},
+    {"id":"luna","title":"Luna","gender":"female"},
+    {"id":"artemis","title":"Artemis","gender":"male"},
+    {"id":"queen-beryl","title":"Queen Beryl","gender":"female"},
+    {"id":"kunzite","title":"Kunzite","gender":"male"},
+    {"id":"jadeite","title":"Jadeite","gender":"male"},
+    {"id":"nephrite","title":"Nephrite","gender":"male"},
+    {"id":"zoisite","title":"Zoisite","gender":"male"},
+    {"id":"sailor-galaxia","title":"Sailor Galaxia","gender":"female"},
+    {"id":"queen-serenity","title":"Queen Serenity","gender":"female"}
+]

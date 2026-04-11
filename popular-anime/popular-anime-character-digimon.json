@@ -1,0 +1,22 @@
+[
+    {"id":"taichi-yagami","title":"Taichi Yagami","gender":"male"},
+    {"id":"agumon","title":"Agumon","gender":"male"},
+    {"id":"yamato-ishida","title":"Yamato Ishida","gender":"male"},
+    {"id":"gabumon","title":"Gabumon","gender":"male"},
+    {"id":"sora-takenouchi","title":"Sora Takenouchi","gender":"female"},
+    {"id":"biyomon","title":"Biyomon","gender":"female"},
+    {"id":"koushiro-izumi","title":"Koushiro Izumi","gender":"male"},
+    {"id":"tentomon","title":"Tentomon","gender":"male"},
+    {"id":"mimi-tachikawa","title":"Mimi Tachikawa","gender":"female"},
+    {"id":"palmon","title":"Palmon","gender":"female"},
+    {"id":"joe-kido","title":"Joe Kido","gender":"male"},
+    {"id":"gomamon","title":"Gomamon","gender":"male"},
+    {"id":"takeru-takaishi","title":"Takeru Takaishi","gender":"male"},
+    {"id":"patamon","title":"Patamon","gender":"male"},
+    {"id":"hikari-yagami","title":"Hikari Yagami","gender":"female"},
+    {"id":"gatomon","title":"Gatomon","gender":"female"},
+    {"id":"davis-motomiya","title":"Davis Motomiya","gender":"male"},
+    {"id":"veemon","title":"Veemon","gender":"male"},
+    {"id":"rika-nonaka","title":"Rika Nonaka","gender":"female"},
+    {"id":"renamon","title":"Renamon","gender":"female"}
+]

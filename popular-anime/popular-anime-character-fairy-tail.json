@@ -1,0 +1,22 @@
+[
+    {"id":"natsu-dragneel","title":"Natsu Dragneel","gender":"male"},
+    {"id":"lucy-heartfilia","title":"Lucy Heartfilia","gender":"female"},
+    {"id":"gray-fullbuster","title":"Gray Fullbuster","gender":"male"},
+    {"id":"erza-scarlet","title":"Erza Scarlet","gender":"female"},
+    {"id":"happy","title":"Happy","gender":"male"},
+    {"id":"wendy-marvell","title":"Wendy Marvell","gender":"female"},
+    {"id":"gajeel-redfox","title":"Gajeel Redfox","gender":"male"},
+    {"id":"juvia-lockser","title":"Juvia Lockser","gender":"female"},
+    {"id":"makarov-dreyar","title":"Makarov Dreyar","gender":"male"},
+    {"id":"laxus-dreyar","title":"Laxus Dreyar","gender":"male"},
+    {"id":"mirajane-strauss","title":"Mirajane Strauss","gender":"female"},
+    {"id":"elfman-strauss","title":"Elfman Strauss","gender":"male"},
+    {"id":"levy-mcgarden","title":"Levy McGarden","gender":"female"},
+    {"id":"cana-alberona","title":"Cana Alberona","gender":"female"},
+    {"id":"mavis-vermillion","title":"Mavis Vermillion","gender":"female"},
+    {"id":"zeref-dragneel","title":"Zeref Dragneel","gender":"male"},
+    {"id":"acnologia","title":"Acnologia","gender":"male"},
+    {"id":"brandish-mu","title":"Brandish Mu","gender":"female"},
+    {"id":"irene-belserion","title":"Irene Belserion","gender":"female"},
+    {"id":"august","title":"August","gender":"male"}
+]

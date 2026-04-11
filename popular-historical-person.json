@@ -1,0 +1,22 @@
+[
+    {"id":"napoleon_bonaparte","title":"Napoleon Bonaparte","gender":"male"},
+    {"id":"albert_einstein","title":"Albert Einstein","gender":"male"},
+    {"id":"leonardo_da_vinci","title":"Leonardo da Vinci","gender":"male"},
+    {"id":"julius_caesar","title":"Julius Caesar","gender":"male"},
+    {"id":"cleopatra","title":"Cleopatra","gender":"female"},
+    {"id":"isaac_newton","title":"Isaac Newton","gender":"male"},
+    {"id":"alexander_the_great","title":"Alexander the Great","gender":"male"},
+    {"id":"genghis_khan","title":"Genghis Khan","gender":"male"},
+    {"id":"abraham_lincoln","title":"Abraham Lincoln","gender":"male"},
+    {"id":"mahatma_gandhi","title":"Mahatma Gandhi","gender":"male"},
+    {"id":"martin_luther_king","title":"Martin Luther King Jr.","gender":"male"},
+    {"id":"marie_curie","title":"Marie Curie","gender":"female"},
+    {"id":"charles_darwin","title":"Charles Darwin","gender":"male"},
+    {"id":"winston_churchill","title":"Winston Churchill","gender":"male"},
+    {"id":"nikola_tesla","title":"Nikola Tesla","gender":"male"},
+    {"id":"christopher_columbus","title":"Christopher Columbus","gender":"male"},
+    {"id":"queen_elizabeth_1","title":"Queen Elizabeth I","gender":"female"},
+    {"id":"karl_marx","title":"Karl Marx","gender":"male"},
+    {"id":"nelson_mandela","title":"Nelson Mandela","gender":"male"},
+    {"id":"socrates","title":"Socrates","gender":"male"}
+]

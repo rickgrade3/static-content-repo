@@ -1,0 +1,22 @@
+[
+    {"id":"yuji-itadori","title":"Yuji Itadori","gender":"male"},
+    {"id":"megumi-fushiguro","title":"Megumi Fushiguro","gender":"male"},
+    {"id":"nobara-kugisaki","title":"Nobara Kugisaki","gender":"female"},
+    {"id":"satoru-gojo","title":"Satoru Gojo","gender":"male"},
+    {"id":"suguru-geto","title":"Suguru Geto","gender":"male"},
+    {"id":"ryomen-sukuna","title":"Ryomen Sukuna","gender":"male"},
+    {"id":"nanami-kento","title":"Nanami Kento","gender":"male"},
+    {"id":"aoi-todo","title":"Aoi Todo","gender":"male"},
+    {"id":"maki-zenin","title":"Maki Zenin","gender":"female"},
+    {"id":"panda","title":"Panda","gender":"male"},
+    {"id":"toge-inumaki","title":"Toge Inumaki","gender":"male"},
+    {"id":"yuta-okkotsu","title":"Yuta Okkotsu","gender":"male"},
+    {"id":"kenjaku","title":"Kenjaku","gender":"male"},
+    {"id":"mahito","title":"Mahito","gender":"male"},
+    {"id":"jogo","title":"Jogo","gender":"male"},
+    {"id":"hanami","title":"Hanami","gender":"male"},
+    {"id":"dagon","title":"Dagon","gender":"male"},
+    {"id":"choso","title":"Choso","gender":"male"},
+    {"id":"naoya-zenin","title":"Naoya Zenin","gender":"male"},
+    {"id":"kokichi-muta","title":"Kokichi Muta","gender":"male"}
+]

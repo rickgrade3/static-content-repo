@@ -1,0 +1,22 @@
+[
+    {"id":"goku-kid","title":"Goku (Kid)","gender":"male"},
+    {"id":"bulma","title":"Bulma","gender":"female"},
+    {"id":"yamcha","title":"Yamcha","gender":"male"},
+    {"id":"krillin","title":"Krillin","gender":"male"},
+    {"id":"master-roshi","title":"Master Roshi","gender":"male"},
+    {"id":"oolong","title":"Oolong","gender":"male"},
+    {"id":"puar","title":"Puar","gender":"female"},
+    {"id":"launch","title":"Launch","gender":"female"},
+    {"id":"tien-shinhan","title":"Tien Shinhan","gender":"male"},
+    {"id":"chiaotzu","title":"Chiaotzu","gender":"male"},
+    {"id":"piccolo","title":"Piccolo","gender":"male"},
+    {"id":"king-piccolo","title":"King Piccolo","gender":"male"},
+    {"id":"tambourine","title":"Tambourine","gender":"male"},
+    {"id":"cymbal","title":"Cymbal","gender":"male"},
+    {"id":"drum","title":"Drum","gender":"male"},
+    {"id":"emperor-pilaf","title":"Emperor Pilaf","gender":"male"},
+    {"id":"shu","title":"Shu","gender":"male"},
+    {"id":"mai","title":"Mai","gender":"female"},
+    {"id":"fortuneteller-baba","title":"Fortuneteller Baba","gender":"female"},
+    {"id":"korin","title":"Korin","gender":"male"}
+]

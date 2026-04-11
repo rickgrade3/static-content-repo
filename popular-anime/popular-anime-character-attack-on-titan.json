@@ -1,0 +1,22 @@
+[
+    {"id":"eren-yeager","title":"Eren Yeager","gender":"male"},
+    {"id":"mikasa-ackerman","title":"Mikasa Ackerman","gender":"female"},
+    {"id":"armin-arlert","title":"Armin Arlert","gender":"male"},
+    {"id":"levi-ackerman","title":"Levi Ackerman","gender":"male"},
+    {"id":"hange-zoe","title":"Hange Zoe","gender":"female"},
+    {"id":"erwin-smith","title":"Erwin Smith","gender":"male"},
+    {"id":"jean-kirstein","title":"Jean Kirstein","gender":"male"},
+    {"id":"connie-springer","title":"Connie Springer","gender":"male"},
+    {"id":"sasha-blouse","title":"Sasha Blouse","gender":"female"},
+    {"id":"historia-reiss","title":"Historia Reiss","gender":"female"},
+    {"id":"reiner-braun","title":"Reiner Braun","gender":"male"},
+    {"id":"bertholdt-hoover","title":"Bertholdt Hoover","gender":"male"},
+    {"id":"annie-leonhart","title":"Annie Leonhart","gender":"female"},
+    {"id":"zeke-yeager","title":"Zeke Yeager","gender":"male"},
+    {"id":"porco-galliard","title":"Porco Galliard","gender":"male"},
+    {"id":"pieck-finger","title":"Pieck Finger","gender":"female"},
+    {"id":"falco-grice","title":"Falco Grice","gender":"male"},
+    {"id":"gabi-braun","title":"Gabi Braun","gender":"female"},
+    {"id":"yelena","title":"Yelena","gender":"female"},
+    {"id":"floch-forster","title":"Floch Forster","gender":"male"}
+]

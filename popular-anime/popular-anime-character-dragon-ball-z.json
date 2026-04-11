@@ -1,0 +1,22 @@
+[
+    {"id":"goku","title":"Goku","gender":"male"},
+    {"id":"vegeta","title":"Vegeta","gender":"male"},
+    {"id":"gohan","title":"Gohan","gender":"male"},
+    {"id":"piccolo","title":"Piccolo","gender":"male"},
+    {"id":"frieza","title":"Frieza","gender":"male"},
+    {"id":"cell","title":"Cell","gender":"male"},
+    {"id":"majin-buu","title":"Majin Buu","gender":"male"},
+    {"id":"trunks","title":"Trunks","gender":"male"},
+    {"id":"goten","title":"Goten","gender":"male"},
+    {"id":"krillin","title":"Krillin","gender":"male"},
+    {"id":"yamcha","title":"Yamcha","gender":"male"},
+    {"id":"tien-shinhan","title":"Tien Shinhan","gender":"male"},
+    {"id":"bulma","title":"Bulma","gender":"female"},
+    {"id":"chi-chi","title":"Chi-Chi","gender":"female"},
+    {"id":"android-18","title":"Android 18","gender":"female"},
+    {"id":"android-17","title":"Android 17","gender":"male"},
+    {"id":"nappa","title":"Nappa","gender":"male"},
+    {"id":"raditz","title":"Raditz","gender":"male"},
+    {"id":"broly","title":"Broly","gender":"male"},
+    {"id":"bardock","title":"Bardock","gender":"male"}
+]

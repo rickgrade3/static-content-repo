@@ -1,0 +1,22 @@
+[
+    {"id":"light-yagami","title":"Light Yagami","gender":"male"},
+    {"id":"l-lawliet","title":"L Lawliet","gender":"male"},
+    {"id":"ryuk","title":"Ryuk","gender":"male"},
+    {"id":"misa-amane","title":"Misa Amane","gender":"female"},
+    {"id":"near","title":"Near","gender":"male"},
+    {"id":"mello","title":"Mello","gender":"male"},
+    {"id":"watari","title":"Watari","gender":"male"},
+    {"id":"soichiro-yagami","title":"Soichiro Yagami","gender":"male"},
+    {"id":"rem","title":"Rem","gender":"female"},
+    {"id":"teru-mikami","title":"Teru Mikami","gender":"male"},
+    {"id":"kiyomi-takada","title":"Kiyomi Takada","gender":"female"},
+    {"id":"touta-matsuda","title":"Touta Matsuda","gender":"male"},
+    {"id":"shuichi-aizawa","title":"Shuichi Aizawa","gender":"male"},
+    {"id":"kyosuke-higuchi","title":"Kyosuke Higuchi","gender":"male"},
+    {"id":"halle-bullock","title":"Halle Bullock","gender":"female"},
+    {"id":"anthony-rester","title":"Anthony Rester","gender":"male"},
+    {"id":"gevanni","title":"Gevanni","gender":"male"},
+    {"id":"wedy","title":"Wedy","gender":"female"},
+    {"id":"aiber","title":"Aiber","gender":"male"},
+    {"id":"sayu-yagami","title":"Sayu Yagami","gender":"female"}
+]

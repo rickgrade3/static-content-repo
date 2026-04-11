@@ -1,0 +1,22 @@
+[
+    {"id":"ken-kaneki","title":"Ken Kaneki","gender":"male"},
+    {"id":"touka-kirishima","title":"Touka Kirishima","gender":"female"},
+    {"id":"rize-kamishiro","title":"Rize Kamishiro","gender":"female"},
+    {"id":"hinami-fueguchi","title":"Hinami Fueguchi","gender":"female"},
+    {"id":"juzo-suzuya","title":"Juzo Suzuya","gender":"male"},
+    {"id":"nishiki-nishio","title":"Nishiki Nishio","gender":"male"},
+    {"id":"shuu-tsukiyama","title":"Shuu Tsukiyama","gender":"male"},
+    {"id":"ayato-kirishima","title":"Ayato Kirishima","gender":"male"},
+    {"id":"hide-nagachika","title":"Hide Nagachika","gender":"male"},
+    {"id":"kishou-arima","title":"Kishou Arima","gender":"male"},
+    {"id":"eto-yoshimura","title":"Eto Yoshimura","gender":"female"},
+    {"id":"yoshimura","title":"Yoshimura","gender":"male"},
+    {"id":"akira-mado","title":"Akira Mado","gender":"female"},
+    {"id":"koutarou-amon","title":"Koutarou Amon","gender":"male"},
+    {"id":"seidou-takizawa","title":"Seidou Takizawa","gender":"male"},
+    {"id":"tatara","title":"Tatara","gender":"male"},
+    {"id":"noro","title":"Noro","gender":"male"},
+    {"id":"yakumo-oomori","title":"Yakumo Oomori","gender":"male"},
+    {"id":"renji-yomo","title":"Renji Yomo","gender":"male"},
+    {"id":"kureo-mado","title":"Kureo Mado","gender":"male"}
+]

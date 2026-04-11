@@ -1,0 +1,22 @@
+[
+    {"id":"ichigo-kurosaki","title":"Ichigo Kurosaki","gender":"male"},
+    {"id":"rukia-kuchiki","title":"Rukia Kuchiki","gender":"female"},
+    {"id":"orihime-inoue","title":"Orihime Inoue","gender":"female"},
+    {"id":"yasutora-sado","title":"Yasutora Sado","gender":"male"},
+    {"id":"uryu-ishida","title":"Uryu Ishida","gender":"male"},
+    {"id":"renji-abarai","title":"Renji Abarai","gender":"male"},
+    {"id":"byakuya-kuchiki","title":"Byakuya Kuchiki","gender":"male"},
+    {"id":"kenpachi-zaraki","title":"Kenpachi Zaraki","gender":"male"},
+    {"id":"sosuke-aizen","title":"Sosuke Aizen","gender":"male"},
+    {"id":"gin-ichimaru","title":"Gin Ichimaru","gender":"male"},
+    {"id":"rangiku-matsumoto","title":"Rangiku Matsumoto","gender":"female"},
+    {"id":"toshiro-hitsugaya","title":"Toshiro Hitsugaya","gender":"male"},
+    {"id":"kisuke-urahara","title":"Kisuke Urahara","gender":"male"},
+    {"id":"yoruichi-shihoin","title":"Yoruichi Shihoin","gender":"female"},
+    {"id":"grimmjow-jaegerjaquez","title":"Grimmjow Jaegerjaquez","gender":"male"},
+    {"id":"ulquiorra-cifer","title":"Ulquiorra Cifer","gender":"male"},
+    {"id":"tier-harribel","title":"Tier Harribel","gender":"female"},
+    {"id":"coyote-starrk","title":"Coyote Starrk","gender":"male"},
+    {"id":"barragan-louisenbairn","title":"Barragan Louisenbairn","gender":"male"},
+    {"id":"yamamoto-genryusai","title":"Yamamoto Genryusai","gender":"male"}
+]

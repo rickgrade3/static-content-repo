@@ -1,0 +1,22 @@
+[
+    {"id":"kirito","title":"Kirito","gender":"male"},
+    {"id":"asuna","title":"Asuna","gender":"female"},
+    {"id":"sinon","title":"Sinon","gender":"female"},
+    {"id":"leafa","title":"Leafa","gender":"female"},
+    {"id":"silica","title":"Silica","gender":"female"},
+    {"id":"lisbeth","title":"Lisbeth","gender":"female"},
+    {"id":"klein","title":"Klein","gender":"male"},
+    {"id":"agil","title":"Agil","gender":"male"},
+    {"id":"alice","title":"Alice","gender":"female"},
+    {"id":"eugeo","title":"Eugeo","gender":"male"},
+    {"id":"yui","title":"Yui","gender":"female"},
+    {"id":"heathcliff","title":"Heathcliff","gender":"male"},
+    {"id":"sugou-nobuyuki","title":"Sugou Nobuyuki","gender":"male"},
+    {"id":"death-gun","title":"Death Gun","gender":"male"},
+    {"id":"yuuki","title":"Yuuki","gender":"female"},
+    {"id":"tiese-shtolienen","title":"Tiese Shtolienen","gender":"female"},
+    {"id":"ronie-arabel","title":"Ronie Arabel","gender":"female"},
+    {"id":"cardinal","title":"Cardinal","gender":"female"},
+    {"id":"administrator","title":"Administrator","gender":"female"},
+    {"id":"bercouli","title":"Bercouli","gender":"male"}
+]

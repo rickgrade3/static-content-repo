@@ -1,0 +1,22 @@
+[
+    {"id":"edward-elric","title":"Edward Elric","gender":"male"},
+    {"id":"alphonse-elric","title":"Alphonse Elric","gender":"male"},
+    {"id":"roy-mustang","title":"Roy Mustang","gender":"male"},
+    {"id":"riza-hawkeye","title":"Riza Hawkeye","gender":"female"},
+    {"id":"winry-rockbell","title":"Winry Rockbell","gender":"female"},
+    {"id":"maes-hughes","title":"Maes Hughes","gender":"male"},
+    {"id":"alex-louis-armstrong","title":"Alex Louis Armstrong","gender":"male"},
+    {"id":"olivier-armstrong","title":"Olivier Armstrong","gender":"female"},
+    {"id":"scar","title":"Scar","gender":"male"},
+    {"id":"greed","title":"Greed","gender":"male"},
+    {"id":"lust","title":"Lust","gender":"female"},
+    {"id":"envy","title":"Envy","gender":"male"},
+    {"id":"wrath","title":"Wrath","gender":"male"},
+    {"id":"sloth","title":"Sloth","gender":"male"},
+    {"id":"gluttony","title":"Gluttony","gender":"male"},
+    {"id":"pride","title":"Pride","gender":"male"},
+    {"id":"father","title":"Father","gender":"male"},
+    {"id":"ling-yao","title":"Ling Yao","gender":"male"},
+    {"id":"lan-fan","title":"Lan Fan","gender":"female"},
+    {"id":"may-chang","title":"May Chang","gender":"female"}
+]

@@ -1,0 +1,22 @@
+[
+    {"id":"zeus","title":"Zeus","origin":"Greek"},
+    {"id":"odin","title":"Odin","origin":"Norse"},
+    {"id":"ra","title":"Ra","origin":"Egyptian"},
+    {"id":"thor","title":"Thor","origin":"Norse"},
+    {"id":"poseidon","title":"Poseidon","origin":"Greek"},
+    {"id":"anubis","title":"Anubis","origin":"Egyptian"},
+    {"id":"athena","title":"Athena","origin":"Greek"},
+    {"id":"loki","title":"Loki","origin":"Norse"},
+    {"id":"apollo","title":"Apollo","origin":"Greek"},
+    {"id":"osiris","title":"Osiris","origin":"Egyptian"},
+    {"id":"ares","title":"Ares","origin":"Greek"},
+    {"id":"hades","title":"Hades","origin":"Greek"},
+    {"id":"aphrodite","title":"Aphrodite","origin":"Greek"},
+    {"id":"shiva","title":"Shiva","origin":"Hindu"},
+    {"id":"vishnu","title":"Vishnu","origin":"Hindu"},
+    {"id":"brahma","title":"Brahma","origin":"Hindu"},
+    {"id":"quetzalcoatl","title":"Quetzalcoatl","origin":"Aztec"},
+    {"id":"freya","title":"Freya","origin":"Norse"},
+    {"id":"isis","title":"Isis","origin":"Egyptian"},
+    {"id":"hermes","title":"Hermes","origin":"Greek"}
+]

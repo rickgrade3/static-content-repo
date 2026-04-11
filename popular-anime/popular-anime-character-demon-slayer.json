@@ -1,0 +1,22 @@
+[
+    {"id":"tanjiro-kamado","title":"Tanjiro Kamado","gender":"male"},
+    {"id":"nezuko-kamado","title":"Nezuko Kamado","gender":"female"},
+    {"id":"zenitsu-agatsuma","title":"Zenitsu Agatsuma","gender":"male"},
+    {"id":"inosuke-hashibira","title":"Inosuke Hashibira","gender":"male"},
+    {"id":"giyu-tomioka","title":"Giyu Tomioka","gender":"male"},
+    {"id":"kanao-tsuyuri","title":"Kanao Tsuyuri","gender":"female"},
+    {"id":"shinobu-kocho","title":"Shinobu Kocho","gender":"female"},
+    {"id":"tengen-uzui","title":"Tengen Uzui","gender":"male"},
+    {"id":"kyojuro-rengoku","title":"Kyojuro Rengoku","gender":"male"},
+    {"id":"muichiro-tokito","title":"Muichiro Tokito","gender":"male"},
+    {"id":"mitsuri-kanroji","title":"Mitsuri Kanroji","gender":"female"},
+    {"id":"obanai-iguro","title":"Obanai Iguro","gender":"male"},
+    {"id":"gyomei-himejima","title":"Gyomei Himejima","gender":"male"},
+    {"id":"sanemi-shinazugawa","title":"Sanemi Shinazugawa","gender":"male"},
+    {"id":"muzan-kibutsuji","title":"Muzan Kibutsuji","gender":"male"},
+    {"id":"akaza","title":"Akaza","gender":"male"},
+    {"id":"doma","title":"Doma","gender":"male"},
+    {"id":"kokushibo","title":"Kokushibo","gender":"male"},
+    {"id":"yoriichi-tsugikuni","title":"Yoriichi Tsugikuni","gender":"male"},
+    {"id":"genya-shinazugawa","title":"Genya Shinazugawa","gender":"male"}
+]

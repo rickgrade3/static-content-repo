@@ -1,0 +1,22 @@
+[
+    {"id":"javascript","title":"JavaScript"},
+    {"id":"python","title":"Python"},
+    {"id":"reactJs","title":"React"},
+    {"id":"nodejs","title":"Node.js"},
+    {"id":"typescript","title":"TypeScript"},
+    {"id":"vuejs","title":"Vue.js"},
+    {"id":"nextJs","title":"Next.js"},
+    {"id":"angular","title":"Angular"},
+    {"id":"django","title":"Django"},
+    {"id":"laravel","title":"Laravel"},
+    {"id":"spring_boot","title":"Spring Boot"},
+    {"id":"flutter","title":"Flutter"},
+    {"id":"react_native","title":"React Native"},
+    {"id":"express","title":"Express.js"},
+    {"id":"fastapi","title":"FastAPI"},
+    {"id":"ruby_on_rails","title":"Ruby on Rails"},
+    {"id":"svelte","title":"Svelte"},
+    {"id":"nuxtjs","title":"Nuxt.js"},
+    {"id":"nestjs","title":"NestJS"},
+    {"id":"tailwind","title":"Tailwind CSS"}
+]

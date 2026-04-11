@@ -1,0 +1,22 @@
+[
+    {"id":"thorfinn","title":"Thorfinn","gender":"male"},
+    {"id":"askeladd","title":"Askeladd","gender":"male"},
+    {"id":"canute","title":"Canute","gender":"male"},
+    {"id":"bjorn","title":"Bjorn","gender":"male"},
+    {"id":"thorkell","title":"Thorkell","gender":"male"},
+    {"id":"leif-ericson","title":"Leif Ericson","gender":"male"},
+    {"id":"ylva","title":"Ylva","gender":"female"},
+    {"id":"helga","title":"Helga","gender":"female"},
+    {"id":"thors","title":"Thors","gender":"male"},
+    {"id":"ragnar","title":"Ragnar","gender":"male"},
+    {"id":"willibald","title":"Willibald","gender":"male"},
+    {"id":"floki","title":"Floki","gender":"male"},
+    {"id":"einar","title":"Einar","gender":"male"},
+    {"id":"arnheid","title":"Arnheid","gender":"female"},
+    {"id":"ketil","title":"Ketil","gender":"male"},
+    {"id":"snake","title":"Snake","gender":"male"},
+    {"id":"hild","title":"Hild","gender":"female"},
+    {"id":"king-sweyn","title":"King Sweyn","gender":"male"},
+    {"id":"anne","title":"Anne","gender":"female"},
+    {"id":"sigurd","title":"Sigurd","gender":"male"}
+]

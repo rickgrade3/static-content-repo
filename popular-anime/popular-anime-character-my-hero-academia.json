@@ -1,0 +1,22 @@
+[
+    {"id":"izuku-midoriya","title":"Izuku Midoriya","gender":"male"},
+    {"id":"katsuki-bakugo","title":"Katsuki Bakugo","gender":"male"},
+    {"id":"ochaco-uraraka","title":"Ochaco Uraraka","gender":"female"},
+    {"id":"shoto-todoroki","title":"Shoto Todoroki","gender":"male"},
+    {"id":"tenya-iida","title":"Tenya Iida","gender":"male"},
+    {"id":"all-might","title":"All Might","gender":"male"},
+    {"id":"aizawa-shota","title":"Aizawa Shota","gender":"male"},
+    {"id":"present-mic","title":"Present Mic","gender":"male"},
+    {"id":"endeavor","title":"Endeavor","gender":"male"},
+    {"id":"hawks","title":"Hawks","gender":"male"},
+    {"id":"best-jeanist","title":"Best Jeanist","gender":"male"},
+    {"id":"mirko","title":"Mirko","gender":"female"},
+    {"id":"twice","title":"Twice","gender":"male"},
+    {"id":"toga-himiko","title":"Toga Himiko","gender":"female"},
+    {"id":"dabi","title":"Dabi","gender":"male"},
+    {"id":"tomura-shigaraki","title":"Tomura Shigaraki","gender":"male"},
+    {"id":"all-for-one","title":"All For One","gender":"male"},
+    {"id":"momo-yaoyorozu","title":"Momo Yaoyorozu","gender":"female"},
+    {"id":"fumikage-tokoyami","title":"Fumikage Tokoyami","gender":"male"},
+    {"id":"eijiro-kirishima","title":"Eijiro Kirishima","gender":"male"}
+]

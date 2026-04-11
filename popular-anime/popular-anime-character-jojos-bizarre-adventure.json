@@ -1,0 +1,22 @@
+[
+    {"id":"jonathan-joestar","title":"Jonathan Joestar","gender":"male"},
+    {"id":"joseph-joestar","title":"Joseph Joestar","gender":"male"},
+    {"id":"jotaro-kujo","title":"Jotaro Kujo","gender":"male"},
+    {"id":"josuke-higashikata","title":"Josuke Higashikata","gender":"male"},
+    {"id":"giorno-giovanna","title":"Giorno Giovanna","gender":"male"},
+    {"id":"jolyne-cujoh","title":"Jolyne Cujoh","gender":"female"},
+    {"id":"johnny-joestar","title":"Johnny Joestar","gender":"male"},
+    {"id":"gyro-zeppeli","title":"Gyro Zeppeli","gender":"male"},
+    {"id":"dio-brando","title":"Dio Brando","gender":"male"},
+    {"id":"robert-speedwagon","title":"Robert E.O. Speedwagon","gender":"male"},
+    {"id":"caesar-zeppeli","title":"Caesar Anthonio Zeppeli","gender":"male"},
+    {"id":"lisa-lisa","title":"Lisa Lisa","gender":"female"},
+    {"id":"muhammad-avdol","title":"Muhammad Avdol","gender":"male"},
+    {"id":"noriaki-kakyoin","title":"Noriaki Kakyoin","gender":"male"},
+    {"id":"jean-pierre-polnareff","title":"Jean Pierre Polnareff","gender":"male"},
+    {"id":"koichi-hirose","title":"Koichi Hirose","gender":"male"},
+    {"id":"yoshikage-kira","title":"Yoshikage Kira","gender":"male"},
+    {"id":"bruno-bucciarati","title":"Bruno Bucciarati","gender":"male"},
+    {"id":"enrico-pucci","title":"Enrico Pucci","gender":"male"},
+    {"id":"funny-valentine","title":"Funny Valentine","gender":"male"}
+]

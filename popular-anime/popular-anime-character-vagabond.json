@@ -1,0 +1,22 @@
+[
+    {"id":"miyamoto-musashi","title":"Miyamoto Musashi","gender":"male"},
+    {"id":"sasaki-kojiro","title":"Sasaki Kojiro","gender":"male"},
+    {"id":"otsu","title":"Otsu","gender":"female"},
+    {"id":"matahachi-honiden","title":"Matahachi Hon'iden","gender":"male"},
+    {"id":"oko","title":"Oko","gender":"female"},
+    {"id":"takuan-soho","title":"Takuan Soho","gender":"male"},
+    {"id":"yagyu-sekishusai","title":"Yagyu Sekishusai","gender":"male"},
+    {"id":"yagyu-hyogonosuke","title":"Yagyu Hyogonosuke","gender":"male"},
+    {"id":"in-ei","title":"In-ei","gender":"male"},
+    {"id":"agon","title":"Agon","gender":"male"},
+    {"id":"denshichiro-yoshioka","title":"Denshichiro Yoshioka","gender":"male"},
+    {"id":"seijuro-yoshioka","title":"Seijuro Yoshioka","gender":"male"},
+    {"id":"shishido-baiken","title":"Shishido Baiken","gender":"male"},
+    {"id":"gunnosuke","title":"Gunnosuke","gender":"male"},
+    {"id":"tsujikaze-tenma","title":"Tsujikaze Tenma","gender":"male"},
+    {"id":"tsujikaze-kohei","title":"Tsujikaze Kohei","gender":"male"},
+    {"id":"akemi","title":"Akemi","gender":"female"},
+    {"id":"osugi","title":"Osugi","gender":"female"},
+    {"id":"uncle-gon","title":"Uncle Gon","gender":"male"},
+    {"id":"jotaro","title":"Jotaro","gender":"male"}
+]

@@ -1,0 +1,22 @@
+[
+    {"id":"naruto-uzumaki","title":"Naruto Uzumaki","gender":"male"},
+    {"id":"sasuke-uchiha","title":"Sasuke Uchiha","gender":"male"},
+    {"id":"sakura-haruno","title":"Sakura Haruno","gender":"female"},
+    {"id":"kakashi-hatake","title":"Kakashi Hatake","gender":"male"},
+    {"id":"itachi-uchiha","title":"Itachi Uchiha","gender":"male"},
+    {"id":"hinata-hyuga","title":"Hinata Hyuga","gender":"female"},
+    {"id":"rock-lee","title":"Rock Lee","gender":"male"},
+    {"id":"neji-hyuga","title":"Neji Hyuga","gender":"male"},
+    {"id":"gaara","title":"Gaara","gender":"male"},
+    {"id":"orochimaru","title":"Orochimaru","gender":"male"},
+    {"id":"jiraiya","title":"Jiraiya","gender":"male"},
+    {"id":"tsunade","title":"Tsunade","gender":"female"},
+    {"id":"minato-namikaze","title":"Minato Namikaze","gender":"male"},
+    {"id":"kushina-uzumaki","title":"Kushina Uzumaki","gender":"female"},
+    {"id":"shikamaru-nara","title":"Shikamaru Nara","gender":"male"},
+    {"id":"obito-uchiha","title":"Obito Uchiha","gender":"male"},
+    {"id":"madara-uchiha","title":"Madara Uchiha","gender":"male"},
+    {"id":"nagato","title":"Nagato","gender":"male"},
+    {"id":"konan","title":"Konan","gender":"female"},
+    {"id":"might-guy","title":"Might Guy","gender":"male"}
+]

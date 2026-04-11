@@ -1,0 +1,22 @@
+[
+    {"id":"saitama","title":"Saitama","gender":"male"},
+    {"id":"genos","title":"Genos","gender":"male"},
+    {"id":"speed-o-sound-sonic","title":"Speed-o'-Sound Sonic","gender":"male"},
+    {"id":"fubuki","title":"Fubuki","gender":"female"},
+    {"id":"tatsumaki","title":"Tatsumaki","gender":"female"},
+    {"id":"bang","title":"Bang","gender":"male"},
+    {"id":"king","title":"King","gender":"male"},
+    {"id":"zombieman","title":"Zombieman","gender":"male"},
+    {"id":"atomic-samurai","title":"Atomic Samurai","gender":"male"},
+    {"id":"child-emperor","title":"Child Emperor","gender":"male"},
+    {"id":"drive-knight","title":"Drive Knight","gender":"male"},
+    {"id":"pig-god","title":"Pig God","gender":"male"},
+    {"id":"superalloy-darkshine","title":"Superalloy Darkshine","gender":"male"},
+    {"id":"watchdog-man","title":"Watchdog Man","gender":"male"},
+    {"id":"metal-bat","title":"Metal Bat","gender":"male"},
+    {"id":"mumen-rider","title":"Mumen Rider","gender":"male"},
+    {"id":"garou","title":"Garou","gender":"male"},
+    {"id":"boros","title":"Boros","gender":"male"},
+    {"id":"elder-centipede","title":"Elder Centipede","gender":"male"},
+    {"id":"orochi","title":"Orochi","gender":"male"}
+]

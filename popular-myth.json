@@ -1,0 +1,22 @@
+[
+    {"id":"atlantis","title":"Atlantis"},
+    {"id":"king_arthur","title":"King Arthur & Excalibur"},
+    {"id":"trojan_horse","title":"Trojan Horse"},
+    {"id":"pandoras_box","title":"Pandora's Box"},
+    {"id":"fountain_of_youth","title":"Fountain of Youth"},
+    {"id":"el_dorado","title":"El Dorado"},
+    {"id":"bigfoot","title":"Bigfoot"},
+    {"id":"loch_ness_monster","title":"Loch Ness Monster"},
+    {"id":"holy_grail","title":"The Holy Grail"},
+    {"id":"noahs_ark","title":"Noah's Ark"},
+    {"id":"medusa","title":"Medusa"},
+    {"id":"minotaur","title":"The Minotaur"},
+    {"id":"hercules","title":"Hercules"},
+    {"id":"kraken","title":"The Kraken"},
+    {"id":"phoenix","title":"Phoenix"},
+    {"id":"unicorn","title":"Unicorn"},
+    {"id":"dragon","title":"Dragon"},
+    {"id":"vampire","title":"Vampire"},
+    {"id":"werewolf","title":"Werewolf"},
+    {"id":"bermuda_triangle_myth","title":"Bermuda Triangle"}
+]

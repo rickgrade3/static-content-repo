@@ -1,0 +1,22 @@
+[
+    {"id":"denji","title":"Denji","gender":"male"},
+    {"id":"pochita","title":"Pochita","gender":"male"},
+    {"id":"makima","title":"Makima","gender":"female"},
+    {"id":"power","title":"Power","gender":"female"},
+    {"id":"aki-hayakawa","title":"Aki Hayakawa","gender":"male"},
+    {"id":"himeno","title":"Himeno","gender":"female"},
+    {"id":"kishibe","title":"Kishibe","gender":"male"},
+    {"id":"quanxi","title":"Quanxi","gender":"female"},
+    {"id":"reze","title":"Reze","gender":"female"},
+    {"id":"kobeni-higashiyama","title":"Kobeni Higashiyama","gender":"female"},
+    {"id":"beam","title":"Beam","gender":"male"},
+    {"id":"angel-devil","title":"Angel Devil","gender":"male"},
+    {"id":"katana-man","title":"Katana Man","gender":"male"},
+    {"id":"violence-fiend","title":"Violence Fiend","gender":"male"},
+    {"id":"future-devil","title":"Future Devil","gender":"male"},
+    {"id":"yoru","title":"Yoru","gender":"female"},
+    {"id":"asa-mitaka","title":"Asa Mitaka","gender":"female"},
+    {"id":"fami","title":"Fami","gender":"female"},
+    {"id":"nayuta","title":"Nayuta","gender":"female"},
+    {"id":"santa-claus","title":"Santa Claus","gender":"female"}
+]

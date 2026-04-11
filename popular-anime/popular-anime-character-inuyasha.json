@@ -1,0 +1,22 @@
+[
+    {"id":"inuyasha","title":"Inuyasha","gender":"male"},
+    {"id":"kagome-higurashi","title":"Kagome Higurashi","gender":"female"},
+    {"id":"miroku","title":"Miroku","gender":"male"},
+    {"id":"sango","title":"Sango","gender":"female"},
+    {"id":"shippo","title":"Shippo","gender":"male"},
+    {"id":"sesshomaru","title":"Sesshomaru","gender":"male"},
+    {"id":"kikyo","title":"Kikyo","gender":"female"},
+    {"id":"naraku","title":"Naraku","gender":"male"},
+    {"id":"jaken","title":"Jaken","gender":"male"},
+    {"id":"rin","title":"Rin","gender":"female"},
+    {"id":"koga","title":"Koga","gender":"male"},
+    {"id":"kagura","title":"Kagura","gender":"female"},
+    {"id":"kanna","title":"Kanna","gender":"female"},
+    {"id":"bankotsu","title":"Bankotsu","gender":"male"},
+    {"id":"suikotsu","title":"Suikotsu","gender":"male"},
+    {"id":"jakotsu","title":"Jakotsu","gender":"male"},
+    {"id":"mukotsu","title":"Mukotsu","gender":"male"},
+    {"id":"renkotsu","title":"Renkotsu","gender":"male"},
+    {"id":"totosai","title":"Totosai","gender":"male"},
+    {"id":"myoga","title":"Myoga","gender":"male"}
+]
