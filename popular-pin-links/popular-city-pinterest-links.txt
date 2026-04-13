@@ -1,0 +1,140 @@
+
+=== australia ===
+Sydney: https://www.pinterest.com/search/my_pins/?q=Sydney
+Melbourne: https://www.pinterest.com/search/my_pins/?q=Melbourne
+Brisbane: https://www.pinterest.com/search/my_pins/?q=Brisbane
+Perth: https://www.pinterest.com/search/my_pins/?q=Perth
+Adelaide: https://www.pinterest.com/search/my_pins/?q=Adelaide
+
+=== brazil ===
+São Paulo: https://www.pinterest.com/search/my_pins/?q=S%C3%A3o%20Paulo
+Rio de Janeiro: https://www.pinterest.com/search/my_pins/?q=Rio%20de%20Janeiro
+Brasília: https://www.pinterest.com/search/my_pins/?q=Bras%C3%ADlia
+Salvador: https://www.pinterest.com/search/my_pins/?q=Salvador
+Fortaleza: https://www.pinterest.com/search/my_pins/?q=Fortaleza
+
+=== china ===
+Beijing: https://www.pinterest.com/search/my_pins/?q=Beijing
+Shanghai: https://www.pinterest.com/search/my_pins/?q=Shanghai
+Guangzhou: https://www.pinterest.com/search/my_pins/?q=Guangzhou
+Shenzhen: https://www.pinterest.com/search/my_pins/?q=Shenzhen
+Chengdu: https://www.pinterest.com/search/my_pins/?q=Chengdu
+
+=== egypt ===
+Cairo: https://www.pinterest.com/search/my_pins/?q=Cairo
+Alexandria: https://www.pinterest.com/search/my_pins/?q=Alexandria
+Luxor: https://www.pinterest.com/search/my_pins/?q=Luxor
+Aswan: https://www.pinterest.com/search/my_pins/?q=Aswan
+Sharm El Sheikh: https://www.pinterest.com/search/my_pins/?q=Sharm%20El%20Sheikh
+
+=== france ===
+Paris: https://www.pinterest.com/search/my_pins/?q=Paris
+Lyon: https://www.pinterest.com/search/my_pins/?q=Lyon
+Marseille: https://www.pinterest.com/search/my_pins/?q=Marseille
+Nice: https://www.pinterest.com/search/my_pins/?q=Nice
+Bordeaux: https://www.pinterest.com/search/my_pins/?q=Bordeaux
+
+=== germany ===
+Berlin: https://www.pinterest.com/search/my_pins/?q=Berlin
+Munich: https://www.pinterest.com/search/my_pins/?q=Munich
+Hamburg: https://www.pinterest.com/search/my_pins/?q=Hamburg
+Frankfurt: https://www.pinterest.com/search/my_pins/?q=Frankfurt
+Cologne: https://www.pinterest.com/search/my_pins/?q=Cologne
+
+=== greece ===
+Athens: https://www.pinterest.com/search/my_pins/?q=Athens
+Thessaloniki: https://www.pinterest.com/search/my_pins/?q=Thessaloniki
+Patras: https://www.pinterest.com/search/my_pins/?q=Patras
+Heraklion: https://www.pinterest.com/search/my_pins/?q=Heraklion
+Rhodes: https://www.pinterest.com/search/my_pins/?q=Rhodes
+
+=== india ===
+Mumbai: https://www.pinterest.com/search/my_pins/?q=Mumbai
+Delhi: https://www.pinterest.com/search/my_pins/?q=Delhi
+Bangalore: https://www.pinterest.com/search/my_pins/?q=Bangalore
+Kolkata: https://www.pinterest.com/search/my_pins/?q=Kolkata
+Chennai: https://www.pinterest.com/search/my_pins/?q=Chennai
+
+=== italy ===
+Rome: https://www.pinterest.com/search/my_pins/?q=Rome
+Milan: https://www.pinterest.com/search/my_pins/?q=Milan
+Venice: https://www.pinterest.com/search/my_pins/?q=Venice
+Florence: https://www.pinterest.com/search/my_pins/?q=Florence
+Naples: https://www.pinterest.com/search/my_pins/?q=Naples
+
+=== japan ===
+Tokyo: https://www.pinterest.com/search/my_pins/?q=Tokyo
+Osaka: https://www.pinterest.com/search/my_pins/?q=Osaka
+Kyoto: https://www.pinterest.com/search/my_pins/?q=Kyoto
+Yokohama: https://www.pinterest.com/search/my_pins/?q=Yokohama
+Sapporo: https://www.pinterest.com/search/my_pins/?q=Sapporo
+
+=== mexico ===
+Mexico City: https://www.pinterest.com/search/my_pins/?q=Mexico%20City
+Guadalajara: https://www.pinterest.com/search/my_pins/?q=Guadalajara
+Monterrey: https://www.pinterest.com/search/my_pins/?q=Monterrey
+Cancun: https://www.pinterest.com/search/my_pins/?q=Cancun
+Oaxaca: https://www.pinterest.com/search/my_pins/?q=Oaxaca
+
+=== peru ===
+Lima: https://www.pinterest.com/search/my_pins/?q=Lima
+Cusco: https://www.pinterest.com/search/my_pins/?q=Cusco
+Arequipa: https://www.pinterest.com/search/my_pins/?q=Arequipa
+Trujillo: https://www.pinterest.com/search/my_pins/?q=Trujillo
+Iquitos: https://www.pinterest.com/search/my_pins/?q=Iquitos
+
+=== south-korea ===
+Seoul: https://www.pinterest.com/search/my_pins/?q=Seoul
+Busan: https://www.pinterest.com/search/my_pins/?q=Busan
+Incheon: https://www.pinterest.com/search/my_pins/?q=Incheon
+Daegu: https://www.pinterest.com/search/my_pins/?q=Daegu
+Jeju: https://www.pinterest.com/search/my_pins/?q=Jeju
+
+=== spain ===
+Madrid: https://www.pinterest.com/search/my_pins/?q=Madrid
+Barcelona: https://www.pinterest.com/search/my_pins/?q=Barcelona
+Seville: https://www.pinterest.com/search/my_pins/?q=Seville
+Valencia: https://www.pinterest.com/search/my_pins/?q=Valencia
+Bilbao: https://www.pinterest.com/search/my_pins/?q=Bilbao
+
+=== switzerland ===
+Zurich: https://www.pinterest.com/search/my_pins/?q=Zurich
+Geneva: https://www.pinterest.com/search/my_pins/?q=Geneva
+Basel: https://www.pinterest.com/search/my_pins/?q=Basel
+Bern: https://www.pinterest.com/search/my_pins/?q=Bern
+Lucerne: https://www.pinterest.com/search/my_pins/?q=Lucerne
+
+=== thailand ===
+Bangkok: https://www.pinterest.com/search/my_pins/?q=Bangkok
+Chiang Mai: https://www.pinterest.com/search/my_pins/?q=Chiang%20Mai
+Phuket: https://www.pinterest.com/search/my_pins/?q=Phuket
+Pattaya: https://www.pinterest.com/search/my_pins/?q=Pattaya
+Ayutthaya: https://www.pinterest.com/search/my_pins/?q=Ayutthaya
+
+=== turkey ===
+Istanbul: https://www.pinterest.com/search/my_pins/?q=Istanbul
+Ankara: https://www.pinterest.com/search/my_pins/?q=Ankara
+Izmir: https://www.pinterest.com/search/my_pins/?q=Izmir
+Antalya: https://www.pinterest.com/search/my_pins/?q=Antalya
+Goreme: https://www.pinterest.com/search/my_pins/?q=Goreme
+
+=== uae ===
+Dubai: https://www.pinterest.com/search/my_pins/?q=Dubai
+Abu Dhabi: https://www.pinterest.com/search/my_pins/?q=Abu%20Dhabi
+Sharjah: https://www.pinterest.com/search/my_pins/?q=Sharjah
+Ajman: https://www.pinterest.com/search/my_pins/?q=Ajman
+Ras Al Khaimah: https://www.pinterest.com/search/my_pins/?q=Ras%20Al%20Khaimah
+
+=== united-kingdom ===
+London: https://www.pinterest.com/search/my_pins/?q=London
+Manchester: https://www.pinterest.com/search/my_pins/?q=Manchester
+Edinburgh: https://www.pinterest.com/search/my_pins/?q=Edinburgh
+Birmingham: https://www.pinterest.com/search/my_pins/?q=Birmingham
+Liverpool: https://www.pinterest.com/search/my_pins/?q=Liverpool
+
+=== usa ===
+New York: https://www.pinterest.com/search/my_pins/?q=New%20York
+Los Angeles: https://www.pinterest.com/search/my_pins/?q=Los%20Angeles
+Chicago: https://www.pinterest.com/search/my_pins/?q=Chicago
+Las Vegas: https://www.pinterest.com/search/my_pins/?q=Las%20Vegas
+Miami: https://www.pinterest.com/search/my_pins/?q=Miami
