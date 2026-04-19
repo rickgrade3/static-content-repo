@@ -1,0 +1,22 @@
+[
+    {"id":"persian","title":"Persian","fur_colors":["white","black","blue","cream","red","silver","golden","tabby","calico","bicolor"]},
+    {"id":"maine_coon","title":"Maine Coon","fur_colors":["brown tabby","black","white","blue","red","cream","tortoiseshell","calico"]},
+    {"id":"ragdoll","title":"Ragdoll","fur_colors":["seal","blue","chocolate","lilac","red","cream","tortie","lynx point"]},
+    {"id":"bengal","title":"Bengal","fur_colors":["brown spotted","brown marbled","silver spotted","snow spotted"]},
+    {"id":"siamese","title":"Siamese","fur_colors":["seal point","blue point","chocolate point","lilac point","flame point"]},
+    {"id":"abyssinian","title":"Abyssinian","fur_colors":["ruddy","red","blue","fawn"]},
+    {"id":"sphynx","title":"Sphynx","fur_colors":["black","white","blue","red","cream","tortoiseshell","calico","tabby"]},
+    {"id":"british_shorthair","title":"British Shorthair","fur_colors":["blue","black","white","cream","tabby","colorpoint","bicolor"]},
+    {"id":"scottish_fold","title":"Scottish Fold","fur_colors":["white","black","blue","cream","tabby","tortoiseshell","calico"]},
+    {"id":"burmese","title":"Burmese","fur_colors":["sable","champagne","blue","platinum"]},
+    {"id":"russian_blue","title":"Russian Blue","fur_colors":["blue","silver-tipped blue"]},
+    {"id":"norwegian_forest","title":"Norwegian Forest Cat","fur_colors":["brown tabby","black","white","blue","red","cream","bicolor","tortoiseshell"]},
+    {"id":"devon_rex","title":"Devon Rex","fur_colors":["white","black","blue","red","cream","tabby","tortoiseshell","calico","colorpoint"]},
+    {"id":"birman","title":"Birman","fur_colors":["seal point","blue point","chocolate point","lilac point","red point","cream point"]},
+    {"id":"american_shorthair","title":"American Shorthair","fur_colors":["silver tabby","brown tabby","black","white","blue","red","cream","bicolor"]},
+    {"id":"munchkin","title":"Munchkin","fur_colors":["white","black","blue","red","cream","tabby","tortoiseshell","calico","colorpoint"]},
+    {"id":"tonkinese","title":"Tonkinese","fur_colors":["natural mink","champagne mink","blue mink","platinum mink"]},
+    {"id":"oriental_shorthair","title":"Oriental Shorthair","fur_colors":["ebony","white","blue","red","cream","chestnut","tabby","tortoiseshell"]},
+    {"id":"turkish_angora","title":"Turkish Angora","fur_colors":["white","black","blue","red","cream","tabby","tortoiseshell","bicolor"]},
+    {"id":"exotic_shorthair","title":"Exotic Shorthair","fur_colors":["white","black","blue","cream","red","silver","golden","tabby","calico","bicolor"]}
+]
