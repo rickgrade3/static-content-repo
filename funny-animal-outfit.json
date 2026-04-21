@@ -244,5 +244,269 @@
         "environment": "fantasy-themed bookshelf room with stacked magical books, a glowing candle, maps pinned to the wall, and a globe on the desk",
         "mood": "fierce and imaginative",
         "style": "fantasy, epic, photorealistic"
+    },
+    {
+        "wearing": "a detailed Iron Man suit in red and gold with glowing arc reactor on the chest, repulsor palms raised, and a sleek helmet with glowing eyes",
+        "environment": "high-tech Stark Industries lab with holographic displays, glowing circuit walls, weapon prototypes on shelves, and dramatic blue lighting",
+        "mood": "powerful and heroic",
+        "style": "epic, cinematic, photorealistic"
+    },
+    {
+        "wearing": "a Spider-Man costume in red and blue with black web pattern, a web shooter on the wrist, and a dramatic wall-clinging pose",
+        "environment": "rooftop of a New York City skyscraper at night with city lights twinkling far below, water towers, and a full moon overhead",
+        "mood": "agile and determined",
+        "style": "action, cinematic, photorealistic"
+    },
+    {
+        "wearing": "a Captain America uniform in deep blue with silver A on the helmet, star emblem on the chest, and holding a vibranium shield with red and white rings",
+        "environment": "dramatic battlefield with waving American flag, stormy sky, smoke in the background, and rubble on the ground",
+        "mood": "brave and noble",
+        "style": "epic, heroic, photorealistic"
+    },
+    {
+        "wearing": "a Thor costume with a silver winged helmet, red flowing cape, leather armor with Norse engravings, and Mjolnir hammer held high crackling with lightning",
+        "environment": "dramatic storm cloud arena in Asgard with rainbow bridge, golden spires, lightning strikes, and swirling clouds",
+        "mood": "godly and thunderous",
+        "style": "mythic, epic, photorealistic"
+    },
+    {
+        "wearing": "a Black Panther vibranium suit in matte black with purple glowing claw marks, a sleek panther mask, and a ready combat stance",
+        "environment": "Wakandan jungle at twilight with glowing blue vibranium veins in the rocks, tribal torches, and exotic foliage",
+        "mood": "fierce and regal",
+        "style": "sleek, cinematic, photorealistic"
+    },
+    {
+        "wearing": "a Thanos costume with a purple padded armor set, a gold and gemstone Infinity Gauntlet glowing on one raised fist",
+        "environment": "crumbling alien planet landscape with a large orange sunset, falling debris, and a dramatic silhouette backdrop",
+        "mood": "menacing and godlike",
+        "style": "dark, epic, photorealistic"
+    },
+    {
+        "wearing": "a Doctor Strange costume with a deep crimson Cloak of Levitation floating behind, a blue tunic with golden Eye of Agamotto amulet, and hands forming a glowing orange sorcery portal",
+        "environment": "mystical library of ancient spells with floating books, swirling dimension portals, and glowing magical runes on the walls",
+        "mood": "mysterious and powerful",
+        "style": "magical, cinematic, photorealistic"
+    },
+    {
+        "wearing": "a Deadpool suit in red and black with twin katanas strapped to the back, white circular eye lenses, and a cheeky thumbs-up pose",
+        "environment": "chaotic alley explosion scene with fire, debris flying, a taco truck nearby, and a fourth-wall-breaking speech bubble",
+        "mood": "chaotic and hilarious",
+        "style": "action, comedic, photorealistic"
+    },
+    {
+        "wearing": "a Loki costume with tall golden horned helmet, green and gold royal cape, leather armor, and a golden scepter held with a scheming expression",
+        "environment": "Asgardian throne room with golden pillars, green torch flames, a large ornate throne, and dramatic godly lighting from above",
+        "mood": "cunning and theatrical",
+        "style": "regal, dramatic, photorealistic"
+    },
+    {
+        "wearing": "a Groot costume as a walking tree with bark-textured body suit, leafy shoulders, twig fingers, and a gentle smile with glowing firefly lights around",
+        "environment": "deep galaxy forest floating in space with stars and nebula visible through the tree canopy, soft bioluminescent plants glowing around",
+        "mood": "gentle and cosmic",
+        "style": "magical, cosmic, photorealistic"
+    },
+    {
+        "wearing": "a Naruto Uzumaki orange and black ninja jumpsuit with a Hidden Leaf Village headband tied on the forehead and swirly whisker marks on the cheeks",
+        "environment": "Hidden Leaf Village rooftop with the Hokage Mountain faces carved in rock in the background, cloudy sky, and ninja scroll props nearby",
+        "mood": "determined and energetic",
+        "style": "anime-inspired, cute, photorealistic"
+    },
+    {
+        "wearing": "a Pikachu full-body costume in bright yellow with pointy black-tipped ears, red cheek circles, a lightning bolt tail, and a cheerful open mouth expression",
+        "environment": "lush Pok\u00e9mon meadow with tall grass, colorful wildflowers, a wooden signpost, and other Pok\u00e9mon silhouettes in the soft background",
+        "mood": "energetic and adorable",
+        "style": "vibrant, cute, photorealistic"
+    },
+    {
+        "wearing": "a Totoro costume as a large round grey forest spirit with big pointed ears, wide white belly, tiny whiskers, and holding a small leaf umbrella overhead",
+        "environment": "misty Japanese countryside at dusk with a giant camphor tree, fireflies glowing, a small wooden bus stop, and soft rain falling gently",
+        "mood": "gentle and magical",
+        "style": "whimsical, cozy, photorealistic"
+    },
+    {
+        "wearing": "a Goku orange gi martial arts uniform with a blue undershirt, a power pole strapped to the back, and spiky black Super Saiyan hair crackling with golden energy aura",
+        "environment": "desolate rocky tournament arena with cracked earth, energy blast craters, dramatic storm clouds, and golden power beams shooting into the sky",
+        "mood": "fierce and unstoppable",
+        "style": "dramatic, anime-inspired, photorealistic"
+    },
+    {
+        "wearing": "a Demon Slayer Tanjiro Kamado checkered haori in black and green, a bamboo muzzle prop, a Nichirin sword on the back, and a determined expression",
+        "environment": "misty bamboo mountain forest at night with glowing demon eyes in the shadows, falling cherry blossom petals, and a crescent moon above",
+        "mood": "intense and focused",
+        "style": "anime-inspired, cinematic, photorealistic"
+    },
+    {
+        "wearing": "a Sailor Moon costume with a white and blue sailor uniform, red bow on chest, twin bun hairstyle with long flowing tails, and a magical wand prop with crescent moon",
+        "environment": "rooftop at night under a full moon with sparkling star effects, pink rose petals swirling in the wind, and a glowing crescent moon symbol in the sky",
+        "mood": "magical and fierce",
+        "style": "sparkly, magical, photorealistic"
+    },
+    {
+        "wearing": "a One Piece Monkey D. Luffy straw hat, red vest, blue shorts, and sandals with a wide open grin and arms stretched wide in a rubbery stretch pose",
+        "environment": "colorful pirate ship deck on the open sea with a jolly roger flag, treasure chest nearby, crashing waves, and a bright tropical sky",
+        "mood": "carefree and adventurous",
+        "style": "vibrant, fun, photorealistic"
+    },
+    {
+        "wearing": "an Attack on Titan Survey Corps green hooded jacket with the Wings of Freedom emblem, ODM gear harness straps, and a determined ready-to-fight expression",
+        "environment": "top of a crumbling stone castle wall with giant shadowy Titans looming in the foggy distance and stormy grey sky with lightning",
+        "mood": "heroic and terrified",
+        "style": "dramatic, dark, photorealistic"
+    },
+    {
+        "wearing": "wild untamed white Einstein hair wig, a rumpled grey tweed suit with a loose tie, holding a chalkboard prop with E=mc\u00b2 written in chalk, and a playful tongue-out expression",
+        "environment": "vintage university chalkboard classroom with equations covering every blackboard, wooden desks, a globe, and afternoon light through tall windows",
+        "mood": "genius and goofy",
+        "style": "vintage, funny, photorealistic"
+    },
+    {
+        "wearing": "a Mona Lisa costume as a walking painting frame around the body, dark Renaissance dress with a gentle mysterious smile expression, and hands folded in the classic pose",
+        "environment": "Louvre museum gallery with soft spotlights, velvet rope barriers, tourists taking photos in the background, and Renaissance paintings lining the walls",
+        "mood": "enigmatic and absurd",
+        "style": "classic art, funny, photorealistic"
+    },
+    {
+        "wearing": "a Frida Kahlo costume with a colorful traditional Mexican Tehuana dress in red and green, a vibrant flower crown with roses and marigolds, dramatic painted eyebrow makeup, and gold jewelry",
+        "environment": "colorful Mexican courtyard with bougainvillea flowers covering the walls, a mosaic tiled fountain, potted cactus plants, and warm golden sunlight",
+        "mood": "bold and artistic",
+        "style": "vibrant, artistic, photorealistic"
+    },
+    {
+        "wearing": "a Napoleon Bonaparte bicorne hat in black, a white military uniform coat with gold epaulettes and medals, and a classic one-hand-tucked-in-jacket pose",
+        "environment": "grand European battlefield with a white horse nearby, cannons, a waving French tricolor flag, and dramatic stormy clouds parting to show sunlight",
+        "mood": "commanding and pompous",
+        "style": "historical, dramatic, photorealistic"
+    },
+    {
+        "wearing": "a Cleopatra costume with a golden Egyptian headdress crown, a white and gold pleated linen dress, a serpent asp armband, heavy kohl eye makeup, and a golden staff",
+        "environment": "grand Egyptian palace throne room with massive hieroglyph-covered columns, palm leaf fans held by attendants, and the Nile River visible through an open archway",
+        "mood": "regal and powerful",
+        "style": "ancient, opulent, photorealistic"
+    },
+    {
+        "wearing": "a Shakespeare costume with a large Elizabethan white ruff collar, a doublet in deep red, puffy breeches, and holding a quill pen and a tiny skull prop",
+        "environment": "wooden Globe Theatre stage with velvet curtains, candle footlights, a packed audience of period-dressed spectators, and dramatic spotlight from above",
+        "mood": "dramatic and theatrical",
+        "style": "vintage, theatrical, photorealistic"
+    },
+    {
+        "wearing": "a Van Gogh costume with a bandaged ear on one side, a straw hat, paint-splattered smock, a palette of swirling colorful paints, and a thick paintbrush in paw",
+        "environment": "sunny wheat field with swirling Van Gogh-style brushstroke sky, a lonely cypress tree, crows flying overhead, and an easel canvas propped in the foreground",
+        "mood": "tortured and passionate",
+        "style": "impressionist, painterly, photorealistic"
+    },
+    {
+        "wearing": "a Mozart costume with an elaborate white powdered wig with curled sides, a teal silk coat with lace cuffs, knee breeches, white stockings, and a tiny conductor baton",
+        "environment": "ornate 18th century Viennese concert hall with gilded balconies, chandelier candles, an audience in period dress, and a grand harpsichord on the stage",
+        "mood": "prodigious and flamboyant",
+        "style": "baroque, elegant, photorealistic"
+    },
+    {
+        "wearing": "a tiny Iron Man suit with glowing arc reactor and metallic red-gold armor plates",
+        "environment": "modern apartment with tech gadgets and LED lights",
+        "mood": "heroic and playful",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a fluffy Thor costume with red cape, mini Mjolnir hammer, and braided wig",
+        "environment": "living room with stormy sky visible through window",
+        "mood": "mighty but adorable",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a Spider-Man suit with detailed web patterns and big expressive eye mask",
+        "environment": "mini cityscape setup with tiny buildings",
+        "mood": "energetic and mischievous",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a Naruto outfit with orange jumpsuit, ninja headband, and tiny kunai pouch",
+        "environment": "forest with soft sunlight and leaves",
+        "mood": "determined but cute",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a Sailor Moon costume with sailor uniform, tiara, and long blonde wig",
+        "environment": "magical pastel room with sparkles",
+        "mood": "magical and charming",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a Goku-inspired outfit with orange gi and spiky wig",
+        "environment": "rocky training ground with dramatic lighting",
+        "mood": "powerful yet goofy",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "an Albert Einstein costume with messy white wig, mustache, and tiny lab coat",
+        "environment": "study room with chalkboard full of equations",
+        "mood": "genius but silly",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a Mona Lisa outfit with Renaissance dress and iconic mysterious smile mask",
+        "environment": "art gallery wall with spotlight",
+        "mood": "calm and humorous",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a Sherlock Holmes costume with detective coat, deerstalker hat, and magnifying glass",
+        "environment": "vintage study with books and dim lighting",
+        "mood": "curious and witty",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a strawberry costume with red body, tiny seeds, and leafy green hood",
+        "environment": "bright kitchen with fresh fruits",
+        "mood": "sweet and cheerful",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a banana costume with soft yellow peel layers wrapping the body",
+        "environment": "minimal pastel background",
+        "mood": "goofy and fun",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a pineapple costume with textured body and spiky green crown",
+        "environment": "tropical themed room with plants",
+        "mood": "playful and quirky",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a cupcake costume with fluffy frosting top and colorful sprinkles",
+        "environment": "bakery setting with cakes and pastries",
+        "mood": "adorable and joyful",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a donut costume with icing glaze and rainbow sprinkles",
+        "environment": "coffee shop table with desserts",
+        "mood": "sweet and silly",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a chocolate bar costume with shiny wrapper partially opened",
+        "environment": "cozy room with warm tones",
+        "mood": "cozy and cute",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a pizza costume with melted cheese, pepperoni slices, and crust edges",
+        "environment": "kitchen table with pizza boxes",
+        "mood": "fun and chaotic",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a sushi costume with rice texture body and salmon topping hat",
+        "environment": "Japanese dining table setup",
+        "mood": "calm but amusing",
+        "style": "cute, funny, photorealistic"
+    },
+    {
+        "wearing": "a hamburger costume with layered buns, lettuce, cheese, and patty",
+        "environment": "fast food themed background",
+        "mood": "chunky and hilarious",
+        "style": "cute, funny, photorealistic"
     }
 ]
