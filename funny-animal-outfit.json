@@ -1,512 +1,347 @@
 [
     {
-        "wearing": "a detailed Godzilla costume with green scaly texture, tiny spiky tail, and oversized monster head hat with open roaring mouth",
-        "environment": "cozy living room with soft warm lighting, blankets on sofa, and small toy city buildings arranged on the floor",
-        "mood": "dramatic and goofy",
-        "style": "cute, funny, photorealistic"
+      "wearing": "tiny green scaly Godzilla helmet with stubby dorsal fins and open plastic jaws only",
+      "environment": "cozy living-room sofa, Netflix on TV, popcorn bowl on coffee table"
     },
     {
-        "wearing": "a full hot dog bun costume with realistic sesame seeds on top, soft golden bun fabric wrapped snugly around the body",
-        "environment": "sunny backyard BBQ party with colorful balloons, a smoking grill, red checkered tablecloth, and ketchup and mustard bottles on the table",
-        "mood": "proud and silly",
-        "style": "cute, funny, photorealistic"
+      "wearing": "soft tan helmet shaped like hot-dog bun top with a few felt sesame seeds",
+      "environment": "sunny backyard BBQ table with ketchup and mustard bottles beside"
     },
     {
-        "wearing": "a Superman cape in red and blue with the iconic S emblem on the chest, tiny matching boots, and a confident heroic pose",
-        "environment": "bright sunny city park with green grass, kids playing in the background, and a blue sky with fluffy clouds",
-        "mood": "heroic and playful",
-        "style": "cute, funny, photorealistic"
+      "wearing": "red curl-front Superman helmet plus tiny blue cape Velcroed to collar only",
+      "environment": "city park bench with kids playing soccer on grass behind"
     },
     {
-        "wearing": "a miniature police officer uniform with a tiny badge, navy blue cap, and a small walkie-talkie clipped to the vest",
-        "environment": "quiet suburban neighborhood street with white picket fences, mailboxes, and a patrol car parked nearby",
-        "mood": "serious and authoritative",
-        "style": "cute, funny, photorealistic"
+      "wearing": "mini navy police cap with badge sticker and small plastic walkie-talkie on collar",
+      "environment": "quiet suburban sidewalk with white picket fence and mailbox"
     },
     {
-        "wearing": "a full NASA astronaut suit in white with an oversized helmet visor, mission patches on the arm, and a small American flag",
-        "environment": "living room couch with star-printed pillows, glowing star projector on the ceiling, and space posters on the wall",
-        "mood": "adventurous and majestic",
-        "style": "cute, funny, photorealistic"
+      "wearing": "white NASA helmet only with reflective visor up, small flag patch on chest strap",
+      "environment": "living-room couch surrounded by star-print pillows and ceiling star projector"
     },
     {
-        "wearing": "a tall white chef hat, a white apron with food stains, and a tiny spatula held in paw",
-        "environment": "warm kitchen with hanging copper pots, a wooden cutting board with vegetables, and steam rising from a pot on the stove",
-        "mood": "focused and proud",
-        "style": "cute, funny, photorealistic"
+      "wearing": "tall white chef’s toque hat only, tiny wooden spatula hanging from neck ribbon",
+      "environment": "home kitchen with copper pots hanging and steam rising from stovetop"
     },
     {
-        "wearing": "a pirate costume with a tricorn hat, eye patch, striped shirt, and a tiny plastic sword tucked in a belt",
-        "environment": "sandy beach at sunset with waves crashing, a small toy pirate ship in the background, and seagulls flying overhead",
-        "mood": "adventurous and mischievous",
-        "style": "cute, funny, photorealistic"
+      "wearing": "black tricorn pirate hat with plastic gold coin taped to brim",
+      "environment": "sandy beach at sunset with waves and seagulls in background"
     },
     {
-        "wearing": "a full Santa Claus outfit with a red coat trimmed in white, matching hat, round belly pillow, and a tiny sack of toys",
-        "environment": "festive living room with a decorated Christmas tree, twinkling lights, wrapped presents on the floor, and a crackling fireplace",
-        "mood": "jolly and warm",
-        "style": "cute, funny, photorealistic"
+      "wearing": "red Santa hat with white pom-pom and mini felt sack tied like a necklace",
+      "environment": "living-room near decorated Christmas tree and lit fireplace"
     },
     {
-        "wearing": "a full-body shark onesie with a grey fin on the back, white belly patch, and cartoon teeth around the hood",
-        "environment": "bathtub full of bubbles with rubber ducks, a blue shower curtain with fish prints, and bath toys scattered around",
-        "mood": "menacing yet adorable",
-        "style": "cute, funny, photorealistic"
+      "wearing": "grey shark-fin hood with felt teeth around edge only",
+      "environment": "bathtub edge with bubbles and rubber ducks on tiled floor"
     },
     {
-        "wearing": "a fluffy golden lion mane wig that perfectly frames the face, with tiny lion paw covers on the feet",
-        "environment": "backyard with tall golden grass, a sunny blue sky, and a garden hose nearby as a mock watering hole",
-        "mood": "regal and ridiculous",
-        "style": "cute, funny, photorealistic"
+      "wearing": "fluffy golden lion mane head-piece only",
+      "environment": "backyard lawn with garden hose coiled nearby under sunny sky"
     },
     {
-        "wearing": "a green inflatable T-Rex dinosaur costume with tiny arms, open mouth headpiece, and scaly texture detail",
-        "environment": "busy park with other animals playing fetch, autumn leaves on the ground, and benches with amused pet owners",
-        "mood": "ferocious and playful",
-        "style": "cute, funny, photorealistic"
+      "wearing": "green inflatable T-Rex head hat with tiny arms sticking up",
+      "environment": "neighborhood park bench with autumn leaves scattered on ground"
     },
     {
-        "wearing": "a yellow and black striped bee costume with transparent wings, fuzzy antennae headband, and a tiny flower prop",
-        "environment": "blooming flower garden with roses, sunflowers, and lavender, bees buzzing in soft bokeh background",
-        "mood": "busy and cheerful",
-        "style": "cute, funny, photorealistic"
+      "wearing": "yellow-black bee antennae headband and small mesh wings on collar only",
+      "environment": "backyard flower garden with real bees buzzing around roses"
     },
     {
-        "wearing": "an orange pumpkin onesie with carved Jack-o-lantern face on the belly, green stem hat, and a small candy bucket",
-        "environment": "Halloween decorated front porch with carved pumpkins, string lights, fake cobwebs, and fallen orange leaves",
-        "mood": "spooky and adorable",
-        "style": "cute, funny, photorealistic"
+      "wearing": "orange pumpkin stem hat with Jack-o-lantern face patch on forehead only",
+      "environment": "front porch steps with carved pumpkins and string lights"
     },
     {
-        "wearing": "a taco costume with a hard shell exterior, shredded lettuce fabric, tiny tomato pieces, and cheese topping details",
-        "environment": "colorful backyard fiesta with papel picado banners, a small margarita table, and festive lights strung overhead",
-        "mood": "festive and proud",
-        "style": "cute, funny, photorealistic"
+      "wearing": "felt taco-shell headband with green lettuce and red tomato pompoms",
+      "environment": "backyard patio table with papel picado banner overhead"
     },
     {
-        "wearing": "a dark wizard robe with silver star patterns, a tall pointed hat, a wooden wand prop, and a mystical pendant",
-        "environment": "cozy study with candle lighting, overflowing bookshelves, an open spell book, and a crystal ball on a wooden desk",
-        "mood": "mysterious and wise",
-        "style": "cute, funny, photorealistic"
+      "wearing": "purple wizard hat with silver star sticker, tiny wand on elastic neck string",
+      "environment": "home office desk with books and glowing desk lamp"
     },
     {
-        "wearing": "a classic cowboy hat in brown leather, a red bandana tied around the neck, plaid shirt, and tiny western boots",
-        "environment": "rustic ranch with wooden fences, hay bales, a red barn in the background, and a golden sunset sky",
-        "mood": "rugged and charming",
-        "style": "cute, funny, photorealistic"
+      "wearing": "brown leather cowboy hat and red bandana tied loosely round neck",
+      "environment": "wooden ranch fence with hay bale and barn behind at sunset"
     },
     {
-        "wearing": "a bright red lobster costume with foam claw hands raised up, antennae on the head, and segmented tail detail",
-        "environment": "colorful pet store with cages, shelves of pet toys, and other animals in the background watching curiously",
-        "mood": "surprised and goofy",
-        "style": "cute, funny, photorealistic"
+      "wearing": "red lobster claw headband and small foam claw on chest only",
+      "environment": "pet-store aisle with shelves of toys and curious onlookers"
     },
     {
-        "wearing": "a tall rainbow birthday hat with elastic chin strap, a matching bow tie, and a frosting-covered nose from eating cake",
-        "environment": "cheerful dining room with birthday streamers, balloons, a frosted cake on the table, and confetti on the floor",
-        "mood": "excited and joyful",
-        "style": "cute, funny, photorealistic"
+      "wearing": "rainbow cone party hat with elastic chin strap only",
+      "environment": "dining-room table with birthday cake and confetti on floor"
     },
     {
-        "wearing": "a yellow Minion costume with blue overalls, goggles on the head, and Minion gloves covering paws",
-        "environment": "colorful kids playroom with building blocks, toy cars, scattered LEGO, and crayon drawings on the wall",
-        "mood": "mischievous and derpy",
-        "style": "cute, funny, photorealistic"
+      "wearing": "yellow Minion goggles headband and small blue overall bib on chest only",
+      "environment": "kids playroom floor littered with LEGO and crayons"
     },
     {
-        "wearing": "a bunny ears headband in pastel pink, a fluffy white tail clip, and a tiny Easter basket around the neck",
-        "environment": "blooming spring garden with tulips and daisies, decorated Easter eggs hidden in the grass, and soft morning sunlight",
-        "mood": "innocent and sweet",
-        "style": "cute, funny, photorealistic"
+      "wearing": "pink bunny ear headband and tiny pastel bow tie on collar only",
+      "environment": "spring garden with tulips and hidden Easter eggs in grass"
     },
     {
-        "wearing": "a pair of brown reindeer antler headband with jingle bells, a red and green Christmas sweater with snowflake pattern",
-        "environment": "snowy front yard with fresh snowfall, Christmas lights on the house, a snowman nearby, and glittery snow on tree branches",
-        "mood": "festive and majestic",
-        "style": "cute, funny, photorealistic"
+      "wearing": "brown reindeer antler headband with jingle bell and festive sweater collar only",
+      "environment": "snowy front yard with Christmas lights and snowman nearby"
     },
     {
-        "wearing": "a classic pointy witch hat in deep purple with gold stars, a tiny witch cape, and a small broomstick leaning beside",
-        "environment": "dusty attic with cobwebs, old wooden furniture, moonlight streaming through a small oval window, and glowing potion bottles",
-        "mood": "mysterious and sinister",
-        "style": "cute, eerie, photorealistic"
+      "wearing": "purple witch hat only with gold star pin",
+      "environment": "dim attic room with cobwebs and moonlight through small window"
     },
     {
-        "wearing": "an oversized white NASA astronaut helmet with a clear visor, matching spacesuit with mission patches, floating in zero gravity pose",
-        "environment": "space-themed bedroom with glow-in-the-dark star stickers on the ceiling, rocket ship lamp, and planet mobile hanging above",
-        "mood": "curious and adventurous",
-        "style": "cute, funny, photorealistic"
+      "wearing": "white astronaut helmet only, visor half-open",
+      "environment": "bedroom with glow-star stickers on ceiling and rocket lamp on"
     },
     {
-        "wearing": "a full-body sushi roll costume with white rice fabric exterior, pink fish topping on the back, and nori strip waistband",
-        "environment": "Japanese-themed kitchen with bamboo mats, soy sauce bottles, a rolling sushi mat on the counter, and paper lanterns overhead",
-        "mood": "serene and ridiculous",
-        "style": "cute, funny, photorealistic"
+      "wearing": "sushi-roll headband with pink fish and rice fabric, chopstick hairpin",
+      "environment": "kitchen counter with soy sauce bottles and rolling mat"
     },
     {
-        "wearing": "a dramatic vampire cape in deep red velvet, slicked back fur, tiny plastic fangs, and a medallion pendant",
-        "environment": "gothic stone castle corridor at night with torch lighting, cobwebs hanging from the ceiling, and a full moon through a narrow window",
-        "mood": "dramatic and brooding",
-        "style": "dark, dramatic, photorealistic"
+      "wearing": "red velvet vampire cape clasped at neck only, tiny plastic fangs on collar",
+      "environment": "brick alley at night with single street lamp and fog from dry-ice bucket"
     },
     {
-        "wearing": "a miniature black silk top hat with a gold band, a white button-up collar, and a tiny monocle prop",
-        "environment": "elegant Victorian parlor with velvet furniture, a roaring fireplace, oil portrait paintings on the wall, and a tea set on the table",
-        "mood": "sophisticated and aloof",
-        "style": "vintage, elegant, photorealistic"
+      "wearing": "black top hat with gold band and monocle on elastic string",
+      "environment": "Victorian-style parlor with velvet sofa and fireplace"
     },
     {
-        "wearing": "iridescent fairy wings in pastel rainbow, a floral crown of tiny roses, and a shimmery tutu skirt",
-        "environment": "enchanted garden at golden hour with glowing fireflies, giant mushrooms, flower arches, and soft magical mist",
-        "mood": "magical and whimsical",
-        "style": "magical, cute, photorealistic"
+      "wearing": "pastel fairy wing headband and small floral necklace only",
+      "environment": "backyard garden at golden hour with real flowers and fireflies"
     },
     {
-        "wearing": "a grey shark fin hat strapped to the head, matching grey shark tooth necklace, and a surprised splashing pose",
-        "environment": "bathtub overflowing with foam bubbles, rubber duck toys, fish-print shower curtain, and splashed water on the tiles",
-        "mood": "terrifying yet tiny",
-        "style": "cute, funny, photorealistic"
+      "wearing": "grey shark-fin cap strapped on head only",
+      "environment": "edge of bathtub with foam bubbles and wet tiles"
     },
     {
-        "wearing": "a tan detective trench coat, a small magnifying glass held up to one eye, a fedora hat, and a notepad tucked in pocket",
-        "environment": "dimly lit shadowy alley at night with rain-wet cobblestones, a flickering street lamp, and mysterious fog rolling in",
-        "mood": "serious and sneaky",
-        "style": "noir, cinematic, photorealistic"
+      "wearing": "tan detective fedora and small magnifying glass on neck lanyard only",
+      "environment": "nighttime alley with wet cobblestones under flickering streetlight"
     },
     {
-        "wearing": "a sparkly princess tiara, a pink satin ballgown with ruffled layers, long white gloves, and a tiny scepter prop",
-        "environment": "royal palace bedroom with a canopy bed, velvet drapes, floral wallpaper, golden mirror, and rose petals on the floor",
-        "mood": "regal and dramatic",
-        "style": "elegant, cute, photorealistic"
+      "wearing": "sparkly tiara headband and pink satin bow tie on collar only",
+      "environment": "bedroom canopy bed with rose petals scattered on carpet"
     },
     {
-        "wearing": "a full hot sauce bottle costume in red with a yellow label, flame print details, and a fiery pepper hat on top",
-        "environment": "modern kitchen with chili peppers hanging to dry, spice jars on a rack, and a pot of spicy stew bubbling on the stove",
-        "mood": "bold and intense",
-        "style": "vibrant, funny, photorealistic"
+      "wearing": "orange construction hard hat with 'FOREMAN' sticker on front only",
+      "environment": "active building site with concrete mixers and workers in hi-vis vests"
     },
     {
-        "wearing": "a pineapple costume with yellow textured fabric body, green leafy crown on top, and a cheerful flower lei around the neck",
-        "environment": "sunlit tropical patio with a hammock, tiki torches, potted palm trees, and a blended tropical drink on a side table",
-        "mood": "laid-back and tropical",
-        "style": "bright, summery, photorealistic"
+      "wearing": "neon yellow bicycle helmet with reflective strip and chin strap dangling",
+      "environment": "sunny bike path in city park with cyclists passing in background"
     },
     {
-        "wearing": "a yellow banana peel suit with the white inside lining visible, curved peel sections fanning out, and a yellow nose",
-        "environment": "colorful kitchen fruit bowl overflowing with bananas, oranges, and grapes, with a cartoon-style sunny window background",
-        "mood": "silly and bewildered",
-        "style": "cute, funny, photorealistic"
+      "wearing": "red firefighter helmet with gold badge number only",
+      "environment": "fire station garage with a shiny red truck behind and hose on rack"
     },
     {
-        "wearing": "a bread loaf costume mimicking a perfectly baked square loaf, golden-brown crust texture, with tiny paws tucked inside",
-        "environment": "rustic bakery window display with real bread loaves, flour dusted wooden shelves, and a handwritten chalkboard menu",
-        "mood": "content and relaxed",
-        "style": "cozy, funny, photorealistic"
+      "wearing": "white ski helmet with snow goggles pushed up on forehead only",
+      "environment": "ski lodge deck with ski racks, snowy mountain slope visible behind"
     },
     {
-        "wearing": "a full black spider costume with fuzzy extra legs attached to the sides, a round spider body shell, and red eye accents",
-        "environment": "cobwebby basement with dusty old boxes, dim bare light bulb swaying gently, spider web decorations everywhere, and concrete walls",
-        "mood": "creepy and cute",
-        "style": "spooky, funny, photorealistic"
+      "wearing": "mini black motorcycle helmet with visor flipped up, no other outfit",
+      "environment": "gas station forecourt with pump and road stretching into distance"
     },
     {
-        "wearing": "a large sunflower headband with bright yellow petals surrounding the face like a frame, and a green stem collar",
-        "environment": "cozy window sill with warm afternoon sunlight streaming in, a potted sunflower plant beside, sheer curtains blowing gently",
-        "mood": "peaceful and cheerful",
-        "style": "bright, cute, photorealistic"
+      "wearing": "blue hockey goalie helmet with wire cage tilted to one side only",
+      "environment": "ice rink bleachers with hockey sticks propped against boards"
     },
     {
-        "wearing": "a full black tuxedo with white shirt, a tiny red bow tie, polished shoes on paws, and slicked fur on the head",
-        "environment": "fancy candlelit dinner party with crystal glasses, white table cloth, rose centerpiece, and soft jazz music implied in the atmosphere",
-        "mood": "pompous and elegant",
-        "style": "sophisticated, funny, photorealistic"
+      "wearing": "black and yellow bumble-bee striped bicycle helmet only",
+      "environment": "suburban sidewalk with fallen leaves, kids riding bikes nearby"
     },
     {
-        "wearing": "a ramen bowl costume with noodle fabric spilling out of a bowl-shaped body, soft noodle strands, a fish cake topping, and a chopstick headband",
-        "environment": "cozy Japanese kitchen at night with soft warm lighting, a clay pot on the stove, wooden chopsticks on the counter, and steam rising",
-        "mood": "comforting and ridiculous",
-        "style": "cozy, funny, photorealistic"
+      "wearing": "dark blue welding helmet flipped up on head, small leather glove hanging from collar",
+      "environment": "home garage workshop with sparks on concrete floor and tool pegboard behind"
     },
     {
-        "wearing": "a navy blue sailor uniform with a white striped collar, captain's cap slightly tilted, and a small anchor badge on the chest",
-        "environment": "wooden dock at a calm harbor during golden hour with sailboats in the background, seagulls flying, and gentle waves",
-        "mood": "proud and adventurous",
-        "style": "nautical, cute, photorealistic"
+      "wearing": "tiny black graduation cap with gold tassel on elastic chin strap only",
+      "environment": "school gymnasium with folding chairs set for ceremony and streamers overhead"
     },
     {
-        "wearing": "a giant hamburger costume with bun top and bottom, lettuce frills, tomato slice fabric, and sesame seeds on the bun hat",
-        "environment": "sunny backyard picnic with a red checkered blanket, picnic basket, lemonade glasses, and a frisbee on the grass nearby",
-        "mood": "hungry and happy",
-        "style": "vibrant, funny, photorealistic"
+      "wearing": "small navy beret tilted to one side, no other accessory",
+      "environment": "outdoor café terrace with wicker chairs, coffee cups on table, people walking past"
     },
     {
-        "wearing": "a full dragon costume with emerald green scales, feathered wings spread wide, a horned hood, and a puff of cotton cloud smoke",
-        "environment": "fantasy-themed bookshelf room with stacked magical books, a glowing candle, maps pinned to the wall, and a globe on the desk",
-        "mood": "fierce and imaginative",
-        "style": "fantasy, epic, photorealistic"
+      "wearing": "mini red fanny pack clipped around waist only",
+      "environment": "busy shopping mall food court with fast-food counters and crowds behind"
     },
     {
-        "wearing": "a detailed Iron Man suit in red and gold with glowing arc reactor on the chest, repulsor palms raised, and a sleek helmet with glowing eyes",
-        "environment": "high-tech Stark Industries lab with holographic displays, glowing circuit walls, weapon prototypes on shelves, and dramatic blue lighting",
-        "mood": "powerful and heroic",
-        "style": "epic, cinematic, photorealistic"
+      "wearing": "tiny plastic blue surgical cap on head only",
+      "environment": "veterinary clinic waiting room with other pets in carriers on seats"
     },
     {
-        "wearing": "a Spider-Man costume in red and blue with black web pattern, a web shooter on the wrist, and a dramatic wall-clinging pose",
-        "environment": "rooftop of a New York City skyscraper at night with city lights twinkling far below, water towers, and a full moon overhead",
-        "mood": "agile and determined",
-        "style": "action, cinematic, photorealistic"
+      "wearing": "small yellow tool belt around waist with plastic hammer and screwdriver only",
+      "environment": "half-renovated bathroom with bare drywall and tiles stacked on floor"
     },
     {
-        "wearing": "a Captain America uniform in deep blue with silver A on the helmet, star emblem on the chest, and holding a vibranium shield with red and white rings",
-        "environment": "dramatic battlefield with waving American flag, stormy sky, smoke in the background, and rubble on the ground",
-        "mood": "brave and noble",
-        "style": "epic, heroic, photorealistic"
+      "wearing": "mini olive-green army helmet with camo band only",
+      "environment": "muddy dog park with agility tunnels and tennis balls scattered on ground"
     },
     {
-        "wearing": "a Thor costume with a silver winged helmet, red flowing cape, leather armor with Norse engravings, and Mjolnir hammer held high crackling with lightning",
-        "environment": "dramatic storm cloud arena in Asgard with rainbow bridge, golden spires, lightning strikes, and swirling clouds",
-        "mood": "godly and thunderous",
-        "style": "mythic, epic, photorealistic"
+      "wearing": "tiny round sunglasses perched on nose with no other outfit",
+      "environment": "beach boardwalk with ice-cream shops and rollerbladers in background"
     },
     {
-        "wearing": "a Black Panther vibranium suit in matte black with purple glowing claw marks, a sleek panther mask, and a ready combat stance",
-        "environment": "Wakandan jungle at twilight with glowing blue vibranium veins in the rocks, tribal torches, and exotic foliage",
-        "mood": "fierce and regal",
-        "style": "sleek, cinematic, photorealistic"
+      "wearing": "small red baseball batting helmet with ear flap only",
+      "environment": "community baseball diamond with dugout bench and chain-link fence behind"
     },
     {
-        "wearing": "a Thanos costume with a purple padded armor set, a gold and gemstone Infinity Gauntlet glowing on one raised fist",
-        "environment": "crumbling alien planet landscape with a large orange sunset, falling debris, and a dramatic silhouette backdrop",
-        "mood": "menacing and godlike",
-        "style": "dark, epic, photorealistic"
+      "wearing": "bright orange lifeguard visor with sunscreen stripe on nose only",
+      "environment": "public swimming pool deck with lane ropes, lounge chairs and kids splashing"
     },
     {
-        "wearing": "a Doctor Strange costume with a deep crimson Cloak of Levitation floating behind, a blue tunic with golden Eye of Agamotto amulet, and hands forming a glowing orange sorcery portal",
-        "environment": "mystical library of ancient spells with floating books, swirling dimension portals, and glowing magical runes on the walls",
-        "mood": "mysterious and powerful",
-        "style": "magical, cinematic, photorealistic"
+      "wearing": "white hard hat with 'SITE VISITOR' printed in black only",
+      "environment": "real-estate open house with paint rollers and a for-sale sign on lawn"
     },
     {
-        "wearing": "a Deadpool suit in red and black with twin katanas strapped to the back, white circular eye lenses, and a cheeky thumbs-up pose",
-        "environment": "chaotic alley explosion scene with fire, debris flying, a taco truck nearby, and a fourth-wall-breaking speech bubble",
-        "mood": "chaotic and hilarious",
-        "style": "action, comedic, photorealistic"
+      "wearing": "tiny grey newsboy cap with small press badge clipped to brim",
+      "environment": "city coffee shop counter with a laptop open and takeaway cups in a row"
     },
     {
-        "wearing": "a Loki costume with tall golden horned helmet, green and gold royal cape, leather armor, and a golden scepter held with a scheming expression",
-        "environment": "Asgardian throne room with golden pillars, green torch flames, a large ornate throne, and dramatic godly lighting from above",
-        "mood": "cunning and theatrical",
-        "style": "regal, dramatic, photorealistic"
+      "wearing": "small bright pink cycling helmet with flower sticker on side only",
+      "environment": "grocery store parking lot with shopping cart return bay and car bonnets visible"
     },
+
     {
-        "wearing": "a Groot costume as a walking tree with bark-textured body suit, leafy shoulders, twig fingers, and a gentle smile with glowing firefly lights around",
-        "environment": "deep galaxy forest floating in space with stars and nebula visible through the tree canopy, soft bioluminescent plants glowing around",
-        "mood": "gentle and cosmic",
-        "style": "magical, cosmic, photorealistic"
+      "wearing": "red and gold Iron Man faceplate helmet with glowing eye slits only",
+      "environment": "home garage with tools on pegboard, car hood open in background"
     },
     {
-        "wearing": "a Naruto Uzumaki orange and black ninja jumpsuit with a Hidden Leaf Village headband tied on the forehead and swirly whisker marks on the cheeks",
-        "environment": "Hidden Leaf Village rooftop with the Hokage Mountain faces carved in rock in the background, cloudy sky, and ninja scroll props nearby",
-        "mood": "determined and energetic",
-        "style": "anime-inspired, cute, photorealistic"
+      "wearing": "blue winged Captain America helmet with white 'A' on forehead and tiny shield on collar",
+      "environment": "city rooftop with water towers and skyline at dusk"
     },
     {
-        "wearing": "a Pikachu full-body costume in bright yellow with pointy black-tipped ears, red cheek circles, a lightning bolt tail, and a cheerful open mouth expression",
-        "environment": "lush Pok\u00e9mon meadow with tall grass, colorful wildflowers, a wooden signpost, and other Pok\u00e9mon silhouettes in the soft background",
-        "mood": "energetic and adorable",
-        "style": "vibrant, cute, photorealistic"
+      "wearing": "silver winged Thor helmet with two small horns and tiny Mjolnir pendant on collar",
+      "environment": "thunderstorm backyard with dark clouds and rain hitting the deck"
     },
     {
-        "wearing": "a Totoro costume as a large round grey forest spirit with big pointed ears, wide white belly, tiny whiskers, and holding a small leaf umbrella overhead",
-        "environment": "misty Japanese countryside at dusk with a giant camphor tree, fireflies glowing, a small wooden bus stop, and soft rain falling gently",
-        "mood": "gentle and magical",
-        "style": "whimsical, cozy, photorealistic"
+      "wearing": "red and blue Spider-Man mask hood with web pattern, small web-shooter cuff on one paw",
+      "environment": "apartment fire-escape stairway with brick wall and street below"
     },
     {
-        "wearing": "a Goku orange gi martial arts uniform with a blue undershirt, a power pole strapped to the back, and spiky black Super Saiyan hair crackling with golden energy aura",
-        "environment": "desolate rocky tournament arena with cracked earth, energy blast craters, dramatic storm clouds, and golden power beams shooting into the sky",
-        "mood": "fierce and unstoppable",
-        "style": "dramatic, anime-inspired, photorealistic"
+      "wearing": "purple Thanos helmet with yellow chin strap and tiny Infinity Gauntlet on a string",
+      "environment": "community garden with half the plants dramatically wilted, half blooming"
     },
     {
-        "wearing": "a Demon Slayer Tanjiro Kamado checkered haori in black and green, a bamboo muzzle prop, a Nichirin sword on the back, and a determined expression",
-        "environment": "misty bamboo mountain forest at night with glowing demon eyes in the shadows, falling cherry blossom petals, and a crescent moon above",
-        "mood": "intense and focused",
-        "style": "anime-inspired, cinematic, photorealistic"
+      "wearing": "black Panther ear headband with vibranium claw necklace pendant only",
+      "environment": "rooftop terrace at night with city lights spread below"
     },
     {
-        "wearing": "a Sailor Moon costume with a white and blue sailor uniform, red bow on chest, twin bun hairstyle with long flowing tails, and a magical wand prop with crescent moon",
-        "environment": "rooftop at night under a full moon with sparkling star effects, pink rose petals swirling in the wind, and a glowing crescent moon symbol in the sky",
-        "mood": "magical and fierce",
-        "style": "sparkly, magical, photorealistic"
+      "wearing": "green Hulk smash fist foam glove on one paw and tiny torn purple shorts bow tie",
+      "environment": "gym weight room floor with dumbbells and chalk dust in the air"
     },
+
     {
-        "wearing": "a One Piece Monkey D. Luffy straw hat, red vest, blue shorts, and sandals with a wide open grin and arms stretched wide in a rubbery stretch pose",
-        "environment": "colorful pirate ship deck on the open sea with a jolly roger flag, treasure chest nearby, crashing waves, and a bright tropical sky",
-        "mood": "carefree and adventurous",
-        "style": "vibrant, fun, photorealistic"
+      "wearing": "orange Naruto headband with metal leaf-village plate, tiny ramen bowl charm on collar",
+      "environment": "ramen shop counter with steaming bowls and hanging noren curtain"
     },
     {
-        "wearing": "an Attack on Titan Survey Corps green hooded jacket with the Wings of Freedom emblem, ODM gear harness straps, and a determined ready-to-fight expression",
-        "environment": "top of a crumbling stone castle wall with giant shadowy Titans looming in the foggy distance and stormy grey sky with lightning",
-        "mood": "heroic and terrified",
-        "style": "dramatic, dark, photorealistic"
+      "wearing": "yellow Pikachu lightning-bolt ear headband with red cheek dot stickers only",
+      "environment": "electronics store aisle glowing with TV screens and neon sale signs"
     },
     {
-        "wearing": "wild untamed white Einstein hair wig, a rumpled grey tweed suit with a loose tie, holding a chalkboard prop with E=mc\u00b2 written in chalk, and a playful tongue-out expression",
-        "environment": "vintage university chalkboard classroom with equations covering every blackboard, wooden desks, a globe, and afternoon light through tall windows",
-        "mood": "genius and goofy",
-        "style": "vintage, funny, photorealistic"
+      "wearing": "wide straw hat tied with red ribbon exactly like Monkey D. Luffy, no other piece",
+      "environment": "harbour dock with fishing boats and coiled ropes on wooden planks"
     },
     {
-        "wearing": "a Mona Lisa costume as a walking painting frame around the body, dark Renaissance dress with a gentle mysterious smile expression, and hands folded in the classic pose",
-        "environment": "Louvre museum gallery with soft spotlights, velvet rope barriers, tourists taking photos in the background, and Renaissance paintings lining the walls",
-        "mood": "enigmatic and absurd",
-        "style": "classic art, funny, photorealistic"
+      "wearing": "spiky black Goku wig headband with halo prop on thin wire above head",
+      "environment": "outdoor gym park with pull-up bars and morning sun breaking through trees"
     },
     {
-        "wearing": "a Frida Kahlo costume with a colorful traditional Mexican Tehuana dress in red and green, a vibrant flower crown with roses and marigolds, dramatic painted eyebrow makeup, and gold jewelry",
-        "environment": "colorful Mexican courtyard with bougainvillea flowers covering the walls, a mosaic tiled fountain, potted cactus plants, and warm golden sunlight",
-        "mood": "bold and artistic",
-        "style": "vibrant, artistic, photorealistic"
+      "wearing": "red Tanjiro checkered headband and tiny bamboo muzzle charm on collar",
+      "environment": "mountain trail at sunrise with mist between pine trees"
     },
     {
-        "wearing": "a Napoleon Bonaparte bicorne hat in black, a white military uniform coat with gold epaulettes and medals, and a classic one-hand-tucked-in-jacket pose",
-        "environment": "grand European battlefield with a white horse nearby, cannons, a waving French tricolor flag, and dramatic stormy clouds parting to show sunlight",
-        "mood": "commanding and pompous",
-        "style": "historical, dramatic, photorealistic"
+      "wearing": "green Survey Corps cloak collar piece with tiny blade crossbelt accessory only",
+      "environment": "high rooftop with brick chimney stacks and cloudy sky behind"
     },
     {
-        "wearing": "a Cleopatra costume with a golden Egyptian headdress crown, a white and gold pleated linen dress, a serpent asp armband, heavy kohl eye makeup, and a golden staff",
-        "environment": "grand Egyptian palace throne room with massive hieroglyph-covered columns, palm leaf fans held by attendants, and the Nile River visible through an open archway",
-        "mood": "regal and powerful",
-        "style": "ancient, opulent, photorealistic"
+      "wearing": "blue round Doraemon ear headband with small magic pocket pouch on collar",
+      "environment": "kid's bedroom floor with open school bag and textbooks scattered"
     },
+
     {
-        "wearing": "a Shakespeare costume with a large Elizabethan white ruff collar, a doublet in deep red, puffy breeches, and holding a quill pen and a tiny skull prop",
-        "environment": "wooden Globe Theatre stage with velvet curtains, candle footlights, a packed audience of period-dressed spectators, and dramatic spotlight from above",
-        "mood": "dramatic and theatrical",
-        "style": "vintage, theatrical, photorealistic"
+      "wearing": "wild white Einstein wig headband with small 'E=mc²' chalk-board tag on collar",
+      "environment": "university lecture hall with equations on chalkboard and wooden desks"
     },
     {
-        "wearing": "a Van Gogh costume with a bandaged ear on one side, a straw hat, paint-splattered smock, a palette of swirling colorful paints, and a thick paintbrush in paw",
-        "environment": "sunny wheat field with swirling Van Gogh-style brushstroke sky, a lonely cypress tree, crows flying overhead, and an easel canvas propped in the foreground",
-        "mood": "tortured and passionate",
-        "style": "impressionist, painterly, photorealistic"
+      "wearing": "dark Renaissance hair-veil headband with tiny gold-frame Mona Lisa painting tag on collar",
+      "environment": "art museum gallery hall with spotlit frames on white walls"
     },
     {
-        "wearing": "a Mozart costume with an elaborate white powdered wig with curled sides, a teal silk coat with lace cuffs, knee breeches, white stockings, and a tiny conductor baton",
-        "environment": "ornate 18th century Viennese concert hall with gilded balconies, chandelier candles, an audience in period dress, and a grand harpsichord on the stage",
-        "mood": "prodigious and flamboyant",
-        "style": "baroque, elegant, photorealistic"
+      "wearing": "small bicorne Napoleon hat tilted sideways, one paw tucked into collar",
+      "environment": "history museum foyer with marble busts and red velvet ropes"
     },
     {
-        "wearing": "a tiny Iron Man suit with glowing arc reactor and metallic red-gold armor plates",
-        "environment": "modern apartment with tech gadgets and LED lights",
-        "mood": "heroic and playful",
-        "style": "cute, funny, photorealistic"
+      "wearing": "plaid deerstalker Sherlock Holmes cap with magnifying-glass monocle on ribbon",
+      "environment": "foggy London-style street at dusk with red phone box and wet cobblestones"
     },
     {
-        "wearing": "a fluffy Thor costume with red cape, mini Mjolnir hammer, and braided wig",
-        "environment": "living room with stormy sky visible through window",
-        "mood": "mighty but adorable",
-        "style": "cute, funny, photorealistic"
+      "wearing": "powdered grey Beethoven wig headband with tiny musical note brooch on collar",
+      "environment": "concert hall stage with grand piano and empty red-seat auditorium"
     },
     {
-        "wearing": "a Spider-Man suit with detailed web patterns and big expressive eye mask",
-        "environment": "mini cityscape setup with tiny buildings",
-        "mood": "energetic and mischievous",
-        "style": "cute, funny, photorealistic"
+      "wearing": "black Frida Kahlo floral crown headband with tiny unibrow sticker on forehead",
+      "environment": "bright courtyard with potted cacti, colourful tiles, and laundry on the line"
     },
     {
-        "wearing": "a Naruto outfit with orange jumpsuit, ninja headband, and tiny kunai pouch",
-        "environment": "forest with soft sunlight and leaves",
-        "mood": "determined but cute",
-        "style": "cute, funny, photorealistic"
+      "wearing": "fluffy white Elvis pompadour wig headband with tiny rhinestone jumpsuit collar only",
+      "environment": "Las Vegas hotel lobby with neon signs and slot machines in background"
     },
+
     {
-        "wearing": "a Sailor Moon costume with sailor uniform, tiara, and long blonde wig",
-        "environment": "magical pastel room with sparkles",
-        "mood": "magical and charming",
-        "style": "cute, funny, photorealistic"
+      "wearing": "red strawberry helmet with white seed dots and green felt leafy cap on top",
+      "environment": "farmers market stall with crates of fresh berries and handwritten price signs"
     },
     {
-        "wearing": "a Goku-inspired outfit with orange gi and spiky wig",
-        "environment": "rocky training ground with dramatic lighting",
-        "mood": "powerful yet goofy",
-        "style": "cute, funny, photorealistic"
+      "wearing": "green watermelon-rind helmet with red felt inner and tiny black seed stickers",
+      "environment": "backyard picnic blanket with checkered cloth and watermelon slices on a plate"
     },
     {
-        "wearing": "an Albert Einstein costume with messy white wig, mustache, and tiny lab coat",
-        "environment": "study room with chalkboard full of equations",
-        "mood": "genius but silly",
-        "style": "cute, funny, photorealistic"
+      "wearing": "yellow banana-peel hood arching over head with peel strips framing face only",
+      "environment": "grocery store produce section with fruit bins and misting sprinklers overhead"
     },
     {
-        "wearing": "a Mona Lisa outfit with Renaissance dress and iconic mysterious smile mask",
-        "environment": "art gallery wall with spotlight",
-        "mood": "calm and humorous",
-        "style": "cute, funny, photorealistic"
+      "wearing": "brown pineapple-ring headband with spiky green crown leaves on top only",
+      "environment": "poolside deck chair with sunscreen bottle and cocktail glass on table"
     },
     {
-        "wearing": "a Sherlock Holmes costume with detective coat, deerstalker hat, and magnifying glass",
-        "environment": "vintage study with books and dim lighting",
-        "mood": "curious and witty",
-        "style": "cute, funny, photorealistic"
+      "wearing": "twin red cherry-ball headband on wire stems with tiny green leaf between them",
+      "environment": "bakery counter with glazed pastries under glass dome and chalk menu board"
     },
     {
-        "wearing": "a strawberry costume with red body, tiny seeds, and leafy green hood",
-        "environment": "bright kitchen with fresh fruits",
-        "mood": "sweet and cheerful",
-        "style": "cute, funny, photorealistic"
+      "wearing": "purple bunch-of-grapes hat with foam balls clustered on green felt leaf cap",
+      "environment": "vineyard row with ripe grapes hanging and countryside hill in background"
     },
+
     {
-        "wearing": "a banana costume with soft yellow peel layers wrapping the body",
-        "environment": "minimal pastel background",
-        "mood": "goofy and fun",
-        "style": "cute, funny, photorealistic"
+      "wearing": "waffle-cone ice-cream hat with oversized pink scoop and sprinkles on top only",
+      "environment": "beach boardwalk ice-cream shop with queue of customers in swimwear"
     },
     {
-        "wearing": "a pineapple costume with textured body and spiky green crown",
-        "environment": "tropical themed room with plants",
-        "mood": "playful and quirky",
-        "style": "cute, funny, photorealistic"
+      "wearing": "pink glazed donut headband with rainbow sprinkle fabric and small bite taken out",
+      "environment": "office break room with coffee machine and box of real donuts on counter"
     },
     {
-        "wearing": "a cupcake costume with fluffy frosting top and colorful sprinkles",
-        "environment": "bakery setting with cakes and pastries",
-        "mood": "adorable and joyful",
-        "style": "cute, funny, photorealistic"
+      "wearing": "brown ramen-bowl hat with fabric noodle strands spilling over the brim and a chopstick pin",
+      "environment": "Japanese ramen restaurant with steamy broth, low wooden tables, and paper lanterns"
     },
     {
-        "wearing": "a donut costume with icing glaze and rainbow sprinkles",
-        "environment": "coffee shop table with desserts",
-        "mood": "sweet and silly",
-        "style": "cute, funny, photorealistic"
+      "wearing": "triangular pizza-slice hat with felt cheese, pepperoni dots, and tomato-red brim only",
+      "environment": "pizzeria counter with brick oven glowing and pizza peels hanging on wall"
     },
     {
-        "wearing": "a chocolate bar costume with shiny wrapper partially opened",
-        "environment": "cozy room with warm tones",
-        "mood": "cozy and cute",
-        "style": "cute, funny, photorealistic"
+      "wearing": "swirled soft-serve froyo helmet in pastel pink with a tiny cherry on top only",
+      "environment": "mall froyo shop with topping bar and plastic cups in a rainbow stack"
     },
     {
-        "wearing": "a pizza costume with melted cheese, pepperoni slices, and crust edges",
-        "environment": "kitchen table with pizza boxes",
-        "mood": "fun and chaotic",
-        "style": "cute, funny, photorealistic"
+      "wearing": "tall sushi-roll headband — white rice band, dark nori strip, pink salmon square on top",
+      "environment": "sushi conveyor-belt restaurant with coloured plates circling on the belt"
     },
     {
-        "wearing": "a sushi costume with rice texture body and salmon topping hat",
-        "environment": "Japanese dining table setup",
-        "mood": "calm but amusing",
-        "style": "cute, funny, photorealistic"
+      "wearing": "pastel macaron sandwich hat — two pink discs with cream filling brim only",
+      "environment": "upscale patisserie window seat with tiered cake stands and pale-wood shelves"
     },
     {
-        "wearing": "a hamburger costume with layered buns, lettuce, cheese, and patty",
-        "environment": "fast food themed background",
-        "mood": "chunky and hilarious",
-        "style": "cute, funny, photorealistic"
+      "wearing": "yellow corn-cob helmet with white kernel bumps and green husk ears framing face",
+      "environment": "county fair grounds with corn-dog stalls and ferris wheel in background"
     }
-]
+  ]
